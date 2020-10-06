@@ -756,3 +756,75 @@ xmtv://aHR0cDovLzk1LjIxNi4xNzIuMTgvdXBsb2FkL2ltYWdlcy9sb2dvQTA3Lm0zdTh8VXNlci1BZ
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/HeNy007/HeNy-Ben-Hamed/master/Aliwix%20Tv%20Lite/falcon-eye.png" , Falcon Eye 4
 xmtv://aHR0cDovLzk1LjIxNi4xNzIuMTgvdXBsb2FkL2ltYWdlcy9sb2dvQTA4Lm0zdTh8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNORS1MWDEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83NC4wLjM3MjkuMTg2IE1vYmlsZSBTYWZhcmkvNTM3LjM2IHJlZmVyZXI9aHR0cDovL3lhcmlnYS50di8/MDg=
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Religious",Karbala Live 1
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-id="ext" group-title="Religious",[untitled]
+https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id="ext" group-title="Test",Imam Hussein
+http://live.imamhossaintv.com/live/ih301/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Taha
+http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b192000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Ali
+http://stream-01.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZa-14Z3aavHxtvYlaTmy-BU)/dm/3/x7tiavb/s/live-2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Kuds
+http://yayin10.canliyayin.org/P981680400/kudustv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Imad
+http://109.123.126.10:1935/live/livestream1.sdp/chunklist_w542659642.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Qaim
+http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Almhdi
+http://iptv.almahditv.com/almahdi/playlist2/1601473368331.ts
+#EXTINF:0 tvg-id="ext" group-title="Test",Bet alabas
+http://live.beitolabbas.tv:1935/live/beitolabbastv/chunklist_w831362392.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Iraqia
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@314913/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1602023340~acl=%2fi%2fdclive_1%40314913*~data=hdntl~hmac=68a6fb6a4739345778b4835ed5e9f1a299d399ea90de4d8218c568fc2cd14225
+#EXTINF:0 tvg-id="ext" group-title="Test",Alkomel
+http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Aljwadin
+http://5.9.249.166:8080/live/aljawadain/aljawadain/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Alkafeel
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Hawler One
+http://198.1.117.5:1935/live/livestream_w1290911642/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Imam Hussein TV 1
+http://fa.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Imam Hussein TV 2
+http://ar.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Imam Hussein TV 3
+http://en.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Imam Hussein TV 4
+http://ur.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Al-Zahra TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Alahad TV
+http://176.241.91.122/hls-live/livepkgr/_definst_/myliveevent/alahad.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Alkafeel TV
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Beitol Abbas TV
+http://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",[untitled]
+https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Test",Alqmar
+https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Test",Anwar
+https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="Test",Alshaaer
+https://nl.live21.ir/hls2/alshaaer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Almaref
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w1683812952_b446000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Almosawy
+https://wowzaprod205-i.akamaihd.net/hls/live/803554/2ee3cf71/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",Thaqalayn
+https://live.thaqalayn.tv/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Test",alwilayah
+https://nl.live21.ir/hls2/alwilayah.tv_src.m3u8
+
+#EXTINF:0 tvg-id="hd-life" group-title="Hy",H
+http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News",Dijlah
+https://ghaasiflu.online/Dijlah/index.m3u8?checkedby:hlscat.com
