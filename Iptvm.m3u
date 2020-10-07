@@ -804,27 +804,31 @@ http://live.al-zahratv.com/live/playlist.m3u8
 http://176.241.91.122/hls-live/livepkgr/_definst_/myliveevent/alahad.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Test",Alkafeel TV
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Test",Beitol Abbas TV
+#EXTINF:0 tvg-id="ext" group-title="Shia",Beitol Abbas TV
 http://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Test",[untitled]
+#EXTINF:0 tvg-id="ext" group-title="Shia",[untitled]
 https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="Test",Alqmar
+#EXTINF:0 tvg-id="ext" group-title="Shia",Alqmar
 https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="Test",Anwar
+#EXTINF:0 tvg-id="ext" group-title="Shia",Anwar
 https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="Test",Alshaaer
+#EXTINF:0 tvg-id="ext" group-title="Shia",Alshaaer
 https://nl.live21.ir/hls2/alshaaer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Test",Almaref
+#EXTINF:0 tvg-id="ext" group-title="Shia",Almaref
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w1683812952_b446000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Test",Almosawy
+#EXTINF:0 tvg-id="ext" group-title="Shia",Almosawy
 https://wowzaprod205-i.akamaihd.net/hls/live/803554/2ee3cf71/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Test",Thaqalayn
 https://live.thaqalayn.tv/hls/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Test",alwilayah
+#EXTINF:0 tvg-id="ext" group-title="Shia",alwilayah
 https://nl.live21.ir/hls2/alwilayah.tv_src.m3u8
 
-#EXTINF:0 tvg-id="hd-life" group-title="Hy",H
+#EXTINF:0 tvg-id="hd-life" group-title="Shia",H
 http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="News",Dijlah
+#EXTINF:0 tvg-id="ext" group-title="Shia",Dijlah
 http://iptvsng.dyndns.org:8080/live/Alanwartv/LIVEANWAR/3.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="shia",Fathima
+http://nl2.live21.ir/hls2/fatimatv_src.m3u8
+
