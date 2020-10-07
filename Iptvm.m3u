@@ -832,5 +832,6 @@ http://iptvsng.dyndns.org:8080/live/Alanwartv/LIVEANWAR/3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Fathima
 http://nl2.live21.ir/hls2/fatimatv_src.m3u8
 
-http://www.jokertv.link:25461/1/dvhjj/33922
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT6 LOW  1M" tvg-logo="" group-title="BeinSport SD And Low",BEIN SPORT6 LOW  1M
+http://www.jokertv.link:25461/1/dvhjj/33922
