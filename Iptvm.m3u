@@ -806,8 +806,6 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
 http://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Alqmar
 https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="Shia",Anwar
-https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="ext" group-title="Shia",Alshaaer
 https://nl.live21.ir/hls2/alshaaer.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Almaref
