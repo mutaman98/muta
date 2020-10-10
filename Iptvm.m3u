@@ -838,6 +838,5 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",داخل الصحن الشريف
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 YOUTUBE ENGLISH",Euronews
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 YOUTUBE ENGLISH",Sky News
 https://www.youtube.com/watch?v=FvNKvNtt-Ao
