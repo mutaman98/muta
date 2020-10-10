@@ -784,8 +784,6 @@ http://live.beitolabbas.tv:1935/live/beitolabbastv/chunklist_w831362392.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@314913/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1602023340~acl=%2fi%2fdclive_1%40314913*~data=hdntl~hmac=68a6fb6a4739345778b4835ed5e9f1a299d399ea90de4d8218c568fc2cd14225
 #EXTINF:0 tvg-id="ext" group-title="Shia",Alkomel
 http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Aljwadin
-http://5.9.249.166:8080/live/aljawadain/aljawadain/1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Alkafeel
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Hawler One
@@ -806,8 +804,6 @@ http://176.241.91.122/hls-live/livepkgr/_definst_/myliveevent/alahad.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Beitol Abbas TV
 http://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",[untitled]
-https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="ext" group-title="Shia",Alqmar
 https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="ext" group-title="Shia",Anwar
