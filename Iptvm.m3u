@@ -838,5 +838,6 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",داخل الصحن الشريف
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 YOUTUBE ENGLISH",Sky News
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8p24fF.png" group-title="* Fluxus.tv",Fluxus Immersed (YouTube)
 https://www.youtube.com/watch?v=FvNKvNtt-Ao
