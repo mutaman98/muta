@@ -284,22 +284,7 @@ http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@
 http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/1246
 #EXTINF:-1 tvg-name="||BEIN|| BeIN Sports 12 HEVC 4K" tvg-logo="",||BEIN|| BeIN Sports 12 HEVC 4K
 http://ccctv.ddns.net:8080/UKfhgtkb@ytvjgfd8877@@76ecj667/htjvddhnvhkitrcjfstds@@jhhhhhhrkjejgg/1247
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN Sports 8 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT8.png" group-title="beIN Sports sd",beIN Sports 8 sd
-http://173.249.4.94:8081/b8/b8/chunks.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="beIN Sports sd",beIN Sports 7 sd
-http://173.249.4.94:8081/b7/b7/chunks.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT6.png" group-title="beIN Sports sd",beIN Sports 6 sd
-http://173.249.4.94:8081/b6/b6/chunks.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="beIN Sports sd",beIN Sports 5 sd
-http://173.249.4.94:8081/b5/b5/chunks.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="beIN Sports sd",beIN Sports 4 sd
-http://173.249.4.94:8081/b4/b4/chunks.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="beIN Sports sd",beIN Sports 3 sd
-http://173.249.4.94:8081/b3/b3/chunks.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="beIN Sports sd",beIN Sports 2 sd
-http://173.249.4.94:8081/b2/b2/chunks.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="beIN Sports sd",beIN Sports 1 sd
-http://173.249.4.94:8081/b1/b1/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| باقة القنوات الفرنسية 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
@@ -431,64 +416,6 @@ https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT NEWS HD" tvg-logo="" group-title="all",BEIN SPORT NEWS HD
 http://king-pro-plus.tk:25461/king/king/2
 http://king-pro-plus.tk:25461/king/king/13
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT1 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT1 low  1M
-http://king-pro-plus.tk:25461/king/king/14
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT2 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT2 low  1M
-http://king-pro-plus.tk:25461/king/king/15
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT3 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT3 low  1M
-http://king-pro-plus.tk:25461/king/king/16
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT4 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT4 low  1M
-http://king-pro-plus.tk:25461/king/king/17
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT5 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT5 low  1M
-http://king-pro-plus.tk:25461/king/king/18
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT6 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT6 low  1M
-http://king-pro-plus.tk:25461/king/king/19
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT7 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT7 low  1M
-http://king-pro-plus.tk:25461/king/king/20
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT8 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT8 low  1M
-http://king-pro-plus.tk:25461/king/king/21
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT9 low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT9 low  1M
-http://king-pro-plus.tk:25461/king/king/22
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT10low  1M" tvg-logo="" group-title="BEIN SPORTS LOW",|AR| BEIN SPORT10low  1M
-http://king-pro-plus.tk:25461/king/king/23
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 SD" tvg-logo="" group-title="BEIN SPORTS SD",BEIN 1 SD
-http://king-pro-plus.tk:25461/king/king/24
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 SD" tvg-logo="" group-title="BEIN SPORTS SD",BEIN 2 SD
-http://king-pro-plus.tk:25461/king/king/25
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 SD" tvg-logo="" group-title="BEIN SPORTS SD",BEIN 3 SD
-http://king-pro-plus.tk:25461/king/king/26
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4 SD" tvg-logo="" group-title="BEIN SPORTS SD",BEIN 4 SD
-http://king-pro-plus.tk:25461/king/king/27
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN SPORTS 5 SD" tvg-logo="" group-title="BEIN SPORTS SD",|AR| BeIN SPORTS 5 SD
-http://king-pro-plus.tk:25461/king/king/28
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN SPORTS 6 SD" tvg-logo="" group-title="BEIN SPORTS SD",|AR| BeIN SPORTS 6 SD
-http://king-pro-plus.tk:25461/king/king/29
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN SPORTS 7 SD" tvg-logo="" group-title="BEIN SPORTS SD",|AR| BeIN SPORTS 7 SD
-http://king-pro-plus.tk:25461/king/king/30
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN SPORTS 8 SD" tvg-logo="" group-title="BEIN SPORTS SD",|AR| BeIN SPORTS 8 SD
-http://king-pro-plus.tk:25461/king/king/31
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN SPORTS 9 SD" tvg-logo="" group-title="BEIN SPORTS SD",|AR| BeIN SPORTS 9 SD
-http://king-pro-plus.tk:25461/king/king/32
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BeIN SPORTS 10 SD" tvg-logo="" group-title="BEIN SPORTS SD",|AR| BeIN SPORTS 10 SD
-http://king-pro-plus.tk:25461/king/king/33
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT1 HD " tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT1 HD 
-http://king-pro-plus.tk:25461/king/king/34
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT3 HD" tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT3 HD
-http://king-pro-plus.tk:25461/king/king/35
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT4 HD1M" tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT4 HD1M
-http://king-pro-plus.tk:25461/king/king/36
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT5 HD" tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT5 HD
-http://king-pro-plus.tk:25461/king/king/37
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT6 HD" tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT6 HD
-http://king-pro-plus.tk:25461/king/king/38
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT7 HD1M" tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT7 HD1M
-http://king-pro-plus.tk:25461/king/king/39
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT8 HD1M" tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT8 HD1M
-http://king-pro-plus.tk:25461/king/king/40
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT9 HD1M" tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT9 HD1M
-http://king-pro-plus.tk:25461/king/king/41
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT10HD 1M" tvg-logo="" group-title="BEIN SPORTS HD",|AR| BEIN SPORT10HD 1M
-http://king-pro-plus.tk:25461/king/king/42
 
 
 
