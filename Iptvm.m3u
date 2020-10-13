@@ -5,6 +5,10 @@ http://live.al-zahratv.com/live/playlist.m3u8
 https://nl.live21.ir/hls2/alshaaer.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="Shia",Almsar
+http://192.34.153.37:7777/AlMasar_HD/AlMasar_HD.m3u8?user=sgls540839&session=3ee14c2b68ca691b3add2f65f887a29404dd21eda6a3027909da3ea27215dd0a7c0f8772c4f2024f&hlsid=HTTP_ID_1&starttime=20200717T070353.785883
+
+
 #EXTINF:0 tvg-id="hd-life" group-title="Shia",kamil
 http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
 
