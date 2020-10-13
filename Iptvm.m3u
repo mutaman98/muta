@@ -75,6 +75,11 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",داخل الصحن الشريف
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
 
+
+#EXTINF:0 tvg-id="ext" group-title="Shia",الامام الرضا
+https://tv.razavi.ir/hls/rozeh.m3u8?auto
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
