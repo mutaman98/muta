@@ -80,6 +80,165 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
 https://tv.razavi.ir/hls/rozeh.m3u8?auto
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 1 4K
+
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_1_HD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 2 4K
+
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_2_HD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 3 4K
+
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_3_HD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 4 4K
+
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_4_HD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 5 4K
+
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_5_HD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 6 4K
+
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_6_HD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 7 4K
+
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_7_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 8 4K
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_8_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 9 4K
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_9_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 10 4K
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_10_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 11 4K
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_11_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 12 4K
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_12_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="4K",beIN SPORTS 13 4K
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_SPORTS_13_HD/index.m3u8
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Bein Drama 1 HD°
+http://arb.ssltv.net:9263/AR_BEIN_DRAMA_1_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Bein Series 1 HD°
+http://arb.ssltv.net:9263/AR_BEIN_SERIES_1_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Bein Series 2 HD°
+http://arb.ssltv.net:9263/AR_BEIN_SERIES_2_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Bein Movies 1 HD°
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_MOVIES_1_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Bein Movies 2 HD°
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_MOVIES_2_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Bein Movies 3 HD°
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_MOVIES_3_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Bein Movies 4 HD°
+http://arb.ssltv.net:9263/AR_4K_-_BEIN_MOVIES_4_HD/index.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="BeIN Entertainment",Fox
+http://arb.ssltv.net:9263/AR_BEIN_FOX_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Fox Action Movies °
+http://arb.ssltv.net:9263/MYHD_FOX_ACTION_MOVIES_HD/index.m3u8
+#EXTINF:0 tvg-id="Boomerang.ar" group-title="BeIN Entertainment",Boomerang AR
+http://arb.ssltv.net:9263/AR_BEIN_BOOMERANG_HD/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="BeIN Entertainment",Cartoon Network
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/5.ts
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Gulli Bil Arabie 4K
+http://arb.ssltv.net:9263/MYHD_GULLI_BIL_ARABIE_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Animal Planet BR 4K UHD/HDR
+http://arb.ssltv.net:9263/MYHD_ANIMAL_PLANET_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Jeem HD
+http://arb.ssltv.net:9263/AR_BEIN_JEEM_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Entertainment",Docu box 4K
+http://arb.ssltv.net:9263/MYHD_DOCU_BOX_HD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN YaHala Oula UHD.
+http://arb.ssltv.net:9263/AR_OSN_YAHALA_OULA_HD/index.m3u8
+#EXTINF:0 tvg-id="OSNYahala.net" group-title="OSN Ultra HD",OSN YaHala UHD.
+http://arb.ssltv.net:9263/AR_OSN_YAHALA_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Yahala Cinema HD
+http://arb.ssltv.net:9263/AR_OSN_YAHALA_CINEMA_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Action HD
+http://arb.ssltv.net:9263/AR_OSN_MOVIES_ACTION_HD/index.m3u8
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="OSN Ultra HD",OSN Movies UHD
+http://arb.ssltv.net:9263/AR_OSN_MOVIES_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Star Movies 4K
+http://arb.ssltv.net:9263/MYHD_STAR_MOVIES_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Series First UHD
+http://arb.ssltv.net:9263/AR_OSN_SERIES_FIRST_HD/index.m3u8
+#EXTINF:0 tvg-id="ARTCinema.net" group-title="OSN Ultra HD",ART Cinema
+http://arb.ssltv.net:9263/ART_CINEMA/index.m3u8
+#EXTINF:0 tvg-id="ARTAflam1.net" group-title="OSN Ultra HD",ART Aflam 1
+http://arb.ssltv.net:9263/ART_AFLAM_1/index.m3u8
+#EXTINF:0 tvg-id="ARTAflam2.net" group-title="OSN Ultra HD",ART Aflam 2
+http://arb.ssltv.net:9263/ART_AFLAM_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",ART Hekayat 1
+http://strong-livetv.com:80/live/lam_mar/AojwXghk3/45212.ts
+#EXTINF:0 tvg-id="ARTHekayat2.net" group-title="OSN Ultra HD",ART Hekayat 2
+http://strong-livetv.com:80/live/lam_mar/AojwXghk3/45213.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN History HD
+http://arb.ssltv.net:9263/AR_OSN_HISTORY_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nat Geo People HD
+http://arb.ssltv.net:9263/AR_OSN_NAT_PEOPLe_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nat Geo HD
+http://arb.ssltv.net:9263/AR_OSN_NAT_GEO_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Discovery Channel 4K UHD/HDR
+http://arb.ssltv.net:9263/AR_OSN_DISCOVERY_SC_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Nat Geo Wild 4K
+http://arb.ssltv.net:9263/AR_OSN_NAT_GEO_WILD_HD/index.m3u8
+#EXTINF:0 tvg-id="Fightbox.cz" group-title="OSN Ultra HD",Fight Box FHD
+http://arb.ssltv.net:9263/MYHD_FIGHT_BOX_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nickelodeon UHD
+http://arb.ssltv.net:9263/AR_OSN_NICKELODEON_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Kids UHD
+http://arb.ssltv.net:9263/AR_OSN_KIDS_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Musalsalat UHD
+http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/87751.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Al Safwa UHD.
+http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/87738.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Al Yawm UHD.
+http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/8494.ts
+
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 1 4K
+http://arb.ssltv.net:9263/MYHD_MBC1_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2 4K
+http://arb.ssltv.net:9263/MYHD_MBC2_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 3 4K
+http://arb.ssltv.net:9263/MYHD_MBC3_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 4 4K
+http://arb.ssltv.net:9263/MYHD_MBC4_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Max 4K
+http://arb.ssltv.net:9263/MYHD_MBC_MAX_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Action 4K
+http://arb.ssltv.net:9263/MYHD_MBC_ACTION_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Bollywood 4K
+http://arb.ssltv.net:9263/MYHD_MBC_BOLLYWOOD_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Drama 4K
+http://arb.ssltv.net:9263/MYHD_MBC_DRAMA_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Drama+ 4K
+http://arb.ssltv.net:9263/MYHD_MBC_DRAMA+_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Variety 4K
+http://arb.ssltv.net:9263/MYHD_MBC_VARIETY_HD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC IRAQ 4K
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 3 4K
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
