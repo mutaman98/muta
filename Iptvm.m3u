@@ -287,6 +287,45 @@ http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="" group-title="Netflix ",Netflix Action
+
+http://sarhantv.myq-see.com:25461/sarhan/sarhantv/57
+
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="" group-title="Netflix ",Netflix Drama
+
+http://sarhantv.myq-see.com:25461/sarhan/sarhantv/59
+
+#EXTINF:-1 tvg-id="" tvg-name="Netflix comedy " tvg-logo="" group-title="Netflix ",Netflix comedy 
+
+http://sarhantv.myq-see.com:25461/sarhan/sarhantv/58
+
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="Netflix ",Netflix Horror
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="MOVIES",NETFLIX ACTION
+http://best-live.xyz:25461/ahmad/zain/54
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOVIES",NETFLIX HORROR
+http://best-live.xyz:25461/ahmad/zain/55
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOVIES",NETFLIX DRAMA
+http://best-live.xyz:25461/ahmad/zain/56
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="MOVIES",NETFLIX COMEDY
+http://best-live.xyz:25461/ahmad/zain/57
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| UFC LIVE HD
 
 http://m.edu-blog.work:80/zxc/zxc/77770
