@@ -1626,118 +1626,570 @@ http://uk.redhatiptv.com:25461/rockiprv/8W11574o8yRe69Pm2/94477
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Nordic",===== Nordic =====
-
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1194
-
-#EXTINF:0 tvg-id="SVT1.se" group-title="Nordic",SE: SVT 1
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/513
-#EXTINF:0 tvg-id="SVT2.se" group-title="Nordic",SE: SVT 2
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1064
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: TV3 Sweden
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/3512
-#EXTINF:0 tvg-id="TV4.se" group-title="Nordic",SE: TV 4
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/6003
-#EXTINF:0 tvg-id="TV4Film.se" group-title="Nordic",SE: TV4 Film
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/509
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: TV4 Guld
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1122
-#EXTINF:0 tvg-id="TV4Fakta.se" group-title="Nordic",SE: TV4 Fakta
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1110
-#EXTINF:0 tvg-id="Kanal5.se" group-title="Nordic",SE: Kanal 5
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7410
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: TV6 Sweden
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/508
-#EXTINF:0 tvg-id="Sjuan.se" group-title="Nordic",SE: Sjuan
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1111
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: TV8 Sweden
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/512
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: Kanal 9HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1127
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: TV10 HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1117
-#EXTINF:0 tvg-id="Kanal11.se" group-title="Nordic",SE: Kanal 11 HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2930
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: TV12 Sweden HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/517
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: SF Kanalen
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7099
-#EXTINF:0 tvg-id="Kunskapskanalen.se" group-title="Nordic",SE: Kunskapskanalen HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1120
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: MTV
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7098
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: MTV Hits
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/3564
-#EXTINF:0 tvg-id="Fox.se" group-title="Nordic",SE: FOX
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2931
-#EXTINF:0 tvg-id="TCMNordic.se" group-title="Nordic",SE: TCM
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9016
-#EXTINF:0 tvg-id="TLCsverige.se" group-title="Nordic",SE: TLC HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1124
-#EXTINF:0 tvg-id="BBCBrit.se" group-title="Nordic",SE: BBC Brit HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/10546
-#EXTINF:0 tvg-id="BBCEarth.se" group-title="Nordic",SE: BBC Earth HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/10560
-#EXTINF:0 tvg-id="HistoryHD.no" group-title="Nordic",SE: History HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/10558
-#EXTINF:0 tvg-id="H2.se" group-title="Nordic",SE: H2 HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/10559
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: E! Entertainment
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15339
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: Travel Channel HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15340
-#EXTINF:0 tvg-id="DiscoveryChannel.se" group-title="Nordic",SE: Discovery Channel HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/6888
-#EXTINF:0 tvg-id="DiscoveryWorld.se" group-title="Nordic",SE: Discovery World
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1129
-#EXTINF:0 tvg-id="DiscoveryScience.se" group-title="Nordic",SE: Discovery Science
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15342
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: Discovery Investigation HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22560
-#EXTINF:0 tvg-id="NatGeoHD.dk" group-title="Nordic",SE: National Geographic HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1126
-#EXTINF:0 tvg-id="NatGeoWildHD.se" group-title="Nordic",SE: Nat Geo Wild HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2757
-#EXTINF:0 tvg-id="AnimalPlanet.se" group-title="Nordic",SE: Animal Planet HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2934
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: Fishing and Hunting
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26037
-#EXTINF:0 tvg-id="DisneyChannel.se" group-title="Nordic",SE: Disney Channel
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7103
-#EXTINF:0 tvg-id="DisneyXD.se" group-title="Nordic",SE: Disney XD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7101
-#EXTINF:0 tvg-id="DisneyJr.se" group-title="Nordic",SE: Disney Junior
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7102
-#EXTINF:0 tvg-id="Boomerang.se" group-title="Nordic",SE: Boomerang
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7105
-#EXTINF:0 tvg-id="CartoonNetwork.se" group-title="Nordic",SE: Cartoon Network
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/504
-#EXTINF:0 tvg-id="Nickelodeon.se" group-title="Nordic",SE: Nickelodeon
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/3563
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: Nicktoons [Multi-Audio]
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/14184
-#EXTINF:0 tvg-id="NickJr.se" group-title="Nordic",SE: Nick Jr
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2940
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: Barnmusik HD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15341
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: MovieTime Kids FHD
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26392
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: Paramount Network
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1112
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: Kanal 10 SV
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7860
-#EXTINF:0 tvg-id="ViasatNatureCrime.se" group-title="Nordic",SE: Viasat Nature
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2937
-#EXTINF:0 tvg-id="ViasatHistory.se" group-title="Nordic",SE: Viasat History
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2938
-#EXTINF:0 tvg-id="ExplorerSpice1.se" group-title="Nordic",SE: Viasat Explore
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2936
-#EXTINF:0 tvg-id="VH1.se" group-title="Nordic",SE: VH1
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27931
-#EXTINF:0 tvg-id="ext" group-title="Nordic",SE: C More Live
-http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/815
 
 
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",===== VIP Nordic =====
 
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/6898
 
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Ultra Nature 4K
 
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/50611
+
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: SVT 1HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/4278
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: SVT 2HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/6885
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Svt 24/B HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2661
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV3 Sweden HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9020
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV4 Sweden HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9019
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV4 Sweden FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15346
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Kanal5 Sweden HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9018
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Kanal 5 FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15344
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV6 Sweden HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7503
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV6 Sweden FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15345
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Sjuan 7 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20236
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV8 Sweden HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22223
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Kanal 9 FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22222
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV 10 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22549
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Kanal 11 FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22548
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV12 Sweden FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22597
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dagens Industri TV HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/41088
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Sport Expressen TV
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/41089
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: MotorTrend HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/41090
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: ATG Live HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23776
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: ATG Live
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15329
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Motorsport.TV HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27985
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Poker World HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27986
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Horse & Country TV
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27987
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Fuel HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27994
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: BBC First HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27997
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: CBS Reality
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27989
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: HBO HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27992
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: MTV Live FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27995
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Nautical Channel HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27996
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Trace Urban FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27988
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Outdoor Channel HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26016
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: WILD HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26466
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Love Nature HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27998
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Travel Channel HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/41453
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TravelXP HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27993
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: FAST&FUN Box HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/29088
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: FightBox HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/29089
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Viasat Explorer FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20962
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Viasat History FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20963
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Viasat Nature FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20961
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Film Premiere HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7289
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Film Action HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/8393
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Film Family HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26552
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Film Hits HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/822
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Series HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/828
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More First FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15330
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More First HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9021
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Hits FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15331
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Hits HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9023
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Series FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15333
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Series HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9022
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Stars FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/15332
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Stars HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9024
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Sport HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7288
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Fotboll HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/4282
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Fotboll HD (B)
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27930
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Hockey HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/4281
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Hockey (B)
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22827
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Golf FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/29630
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Golf HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/818
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Live FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/29631
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Live HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7292
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Live 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2941
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Live 3 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2942
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Live 4 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/2943
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: C More Live 5 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/19394
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Eurosport 1 FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22543
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Eurosport 2 FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22544
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: EUROSPORT 1HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7290
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: EUROSPORT 2HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7291
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Ultra 4K HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22435
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Ultra HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31684
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Sport Premium FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/28993
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Sport Premium HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7170
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Sport Premium SD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/9017
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Fotboll FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/28994
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Fotboll HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/4103
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Sport 1 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/4102
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Sport Extra HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7365
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Hockey FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26097
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Hockey HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/4104
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Motor FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/28995
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Motor HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/4105
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Golf HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/4108
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Fight Sports HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/14153
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: ESport TV HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7615
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Sportkanalen HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/16803
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Sportkanalen SD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/16261
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Strive Sport HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/25914
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Sport 1 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/35696
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Sport 2 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/35697
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Sport 3 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/42762
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Sport 4 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/42763
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Sport 5 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/42769
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Sport 6 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/42770
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Extra 1 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/51836
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Extra 2 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/51835
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Extra 3 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/51834
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Extra 4 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/51833
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Extra 5 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/51832
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Extra 6 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/51831
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Extra 7 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/51830
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Dplay Extra 8 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/51829
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Strive Sport Extra 1 HD ( During Games only )
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18798
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Strive Sport Extra 2 HD ( During Games only )
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18797
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Strive Sport Extra 3 HD ( During Games only )
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26045
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Strive Sport Extra 4 HD ( During Games only )
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26046
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Strive Sport Extra 5 HD ( During Games only )
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26047
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Speedway FHD ( During Games only )
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26048
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: ViaPlay 1 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/30049
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: ViaPlay 2 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/30050
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: ViaPlay 3 [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/30730
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Xtra 1 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26038
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Xtra 2 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26039
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Xtra 3 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26040
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Xtra 4 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26041
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Xtra 5 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26042
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Xtra 6 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26043
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: V Xtra 7 HD [Live During Events Only]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26044
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Axess TV
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/28996
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Expressen FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22545
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Godare
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/29085
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: TV Malmo
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22546
+#EXTINF:0 tvg-id="ext" group-title="VIP Nordic",VIP SE: Curiosity Streams HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22547
+
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",==== Regional SE =====
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31203
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Dalarna
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31202
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Gävleborg
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31201
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Jämtland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31199
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Jönköping
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31198
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Norrbotten
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31197
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Skåne
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31194
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Småland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31193
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Värmland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31192
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Väst
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31191
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Västerbotten
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31190
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Västernorrland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31189
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Örebro
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31196
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 1 Öst
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31195
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Dalarna
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31188
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Gävleborg
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31187
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Jämtland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31186
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Jönköping
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31185
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Norrbotten
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31184
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Skåne
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31181
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Småland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31180
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Värmland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31179
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Väst
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31178
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Västerbotten
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31177
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Västernorrland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31176
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Örebro
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31183
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP SE: SVT 2 Öst
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/31182
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Yle TV1 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/3515
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Yle TV2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/3497
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Yle Teema Fem HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/17549
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: MTV3 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/10553
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: MTV3 SD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26480
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Nelonen 4 FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22625
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Nelonen 4
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/21130
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: TV5
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18630
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Kutonen
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18631
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Ava HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18633
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Frii
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18634
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Hero
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23790
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Alfa
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18632
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: FOX
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/42041
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Report TV
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/41091
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: V Urheilu FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27956
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: V Jalkapallo FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27955
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: V Jääkiekko FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27954
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: V Sport Premium HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/14776
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: V Sport HD [Multi-Audio]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23746
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: V Hockey HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23735
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Cmore Sport 1 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/8186
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: Cmore Sport 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/8187
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: C More MAX FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26350
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: C More MAX HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/12760
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: C More First HD [Multi-Sub]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23750
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: C More Hits HD [Multi-Sub]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23751
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: C More Series HD [Multi-Sub]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23752
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: C More Stars HD [Multi-Sub]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23753
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: EUROSPORT 1HD [Multi-Aud]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23742
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FI: EUROSPORT 2HD [Multi-Aud]
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/23743
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP IS: RUV FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18733
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP IS: RUV
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18734
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP IS: RUV 2
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/30057
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FJ: FIJI TV
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/37294
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP IS: Stod 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/37297
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP IS: N4 Iceland
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/30056
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP FO: KVF FHD ( Faroe )
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/37298
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP IS: Omega
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/30055
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: DR 1 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22595
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: DR 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22596
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: DK4
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22564
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/12762
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV 3 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/17548
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV 3+HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/16936
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV 3+
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26335
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV 3 Puls FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/30594
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: 6`eren HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/16941
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Kanal4 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18017
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Kanal5 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18016
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Canal 9 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18015
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Viasat Explorer FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22628
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Viasat History FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22629
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Viasat Nature FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/22630
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: V Film Action HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18022
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: V Film Family HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18021
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: V Film Hits HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18020
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: V Film Premiere HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18019
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: V Series HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18018
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Xee HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/25934
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: C More First FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27974
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: C More Hits HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18028
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: C More Series HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18027
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: C More Stars HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18026
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: EuroSport 1 FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/18039
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Eurosport 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/12763
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV2 Sport HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/25933
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV2 Sport X FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/30595
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV2 Sport X HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/34821
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV3 Sport FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/17550
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV3 Sport HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26096
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV3 Sport SD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26088
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV3 Max FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/1105
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TV3 Max SD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/25932
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Sport Live FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/16937
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: TVMV
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27976
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: KKR TV
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27975
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Danske Klassikker 1
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26075
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Danske Klassikker 2
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26074
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Danske Klassikker 3
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26073
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Danske Klassikker 4
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26072
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP DK: Danske Klassikker 5
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/26071
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: NRK 1 HD NO
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/8395
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: NRK 2 HD NO
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/8396
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: NRK 3 HD NO
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/8397
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV Norge HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/16935
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/16934
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV3 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/10551
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Viasat 4 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/17551
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Norway Live
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27991
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V Film Action HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/823
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V Film Family HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/821
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V Film Hits HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/820
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V Film Premiere HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/847
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V Series HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7752
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: C More First HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/811
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: C More Hits HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/813
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: C More Series HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/816
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: C More Stars HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/810
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV2 Sport 1 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20982
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV2 Sport 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7293
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV2 Sport Premium FHD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/21374
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV2 Sport Premium HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20266
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV2 Sport Premium 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20983
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V sport 1 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20979
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V sport 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20980
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V sport 3 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/20981
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V sport + HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/21323
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: V Golf HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/7095
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Rikstoto Direkte HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/12755
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport 1 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27990
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Norge HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/8335
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 1 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/12756
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 2 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/12757
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 3 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/12758
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 4 HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/12759
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 5
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27981
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 6
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27980
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 7
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27979
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 8
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27978
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 9
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27977
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 10
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27984
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 11
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27983
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Eurosport Pluss 12
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27982
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: TV Visjon Norge
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27973
+#EXTINF:0 tvg-id="ext" group-title="Regional SE",VIP NO: Hope Channel HD
+http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27972
