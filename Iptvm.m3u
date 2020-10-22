@@ -306,77 +306,24 @@ http://sarhantv.myq-see.com:25461/sarhan/sarhantv/58
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="Netflix ",Netflix Horror
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="MOVIES",NETFLIX ACTION
-http://best-live.xyz:25461/ahmad/zain/54
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOVIES",NETFLIX HORROR
-http://best-live.xyz:25461/ahmad/zain/55
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOVIES",NETFLIX DRAMA
-http://best-live.xyz:25461/ahmad/zain/56
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="MOVIES",NETFLIX COMEDY
-http://best-live.xyz:25461/ahmad/zain/57
+
+
+
+
+#:-1 tvg-id="" tvg-name="shoofmax 1 " tvg-logo="" group-title="Shoof Max",shoofmax 1 
+http://sarhantv.myq-see.com:25461/sarhan/sarhantv/78
+#EXTINF:-1 tvg-id="" tvg-name="shoofmax 2" tvg-logo="" group-title="Shoof Max",shoofmax 2
+http://sarhantv.myq-see.com:25461/sarhan/sarhantv/79
+#EXTINF:-1 tvg-id="" tvg-name="shoofmax 3 " tvg-logo="" group-title="Shoof Max",shoofmax 3 
+http://sarhantv.myq-see.com:25461/sarhan/sarhantv/80
+#EXTINF:-1 tvg-id="" tvg-name="shoofmax 4 " tvg-logo="" group-title="Shoof Max",shoofmax 4 
+http://sarhantv.myq-see.com:25461/sarhan/sarhantv/81
+#EXTINF:-1 tvg-id="" tvg-name="shoofmax 5" tvg-logo="" group-title="Shoof Max",shoofmax 5
 
 
 
 
 
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| UFC LIVE HD
-
-http://m.edu-blog.work:80/zxc/zxc/77770
-
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| FLEX 1 HD
-
-http://m.edu-blog.work:80/zxc/zxc/41017
-
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| FLEX 2 HD
-
-http://m.edu-blog.work:80/zxc/zxc/41018
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| FLIX 3 HD
-http://m.edu-blog.work:80/zxc/zxc/41019
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| FLIX 4 HD
-http://m.edu-blog.work:80/zxc/zxc/41020
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| FLIX 5 HD
-http://m.edu-blog.work:80/zxc/zxc/41021
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 1
-http://m.edu-blog.work:80/zxc/zxc/74217
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 2
-http://m.edu-blog.work:80/zxc/zxc/74218
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 3
-http://m.edu-blog.work:80/zxc/zxc/74219
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 4
-http://m.edu-blog.work:80/zxc/zxc/74220
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 5
-http://m.edu-blog.work:80/zxc/zxc/74221
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 6
-http://m.edu-blog.work:80/zxc/zxc/74222
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 7
-http://m.edu-blog.work:80/zxc/zxc/74223
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 8
-http://m.edu-blog.work:80/zxc/zxc/74224
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 9
-http://m.edu-blog.work:80/zxc/zxc/74225
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 10
-http://m.edu-blog.work:80/zxc/zxc/74226
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| bollYwooD HDr 11
-http://m.edu-blog.work:80/zxc/zxc/74227
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| ShahRuKhan شاروخان
-http://m.edu-blog.work:80/zxc/zxc/72073
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| GAGS HD 1
-http://m.edu-blog.work:80/zxc/zxc/72181
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| GAGS HD 2
-http://m.edu-blog.work:80/zxc/zxc/72197
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| GAGS HD 3
-http://m.edu-blog.work:80/zxc/zxc/72205
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| GAGS HD 4
-http://m.edu-blog.work:80/zxc/zxc/72206
-#EXTINF:0 tvg-id="ext" group-title="ALDAHYA FLIX",ALDAHYA| GAGS HD 5
-http://m.edu-blog.work:80/zxc/zxc/72207
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| قنوات mbc📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
@@ -420,30 +367,10 @@ http://2.56.215.148:25461/11/11/15
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| قنوات beIN Sports📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
-#EXTINF:-1 tvg-id="beINbeIN SPORT S21.qa" tvg-name="AR: BEIN SPORT 01 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S2.png" group-title="beIN SPORT S2",AR: BEIN SPORT 01 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="AR: BEIN SPORT 02 HD" tvg-logo="http://23.237.68.58/logo/bb/be_in_mena_beIN SPORT S2_02.png" group-title="beIN SPORT S2",AR: BEIN SPORT 02 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="AR: BEIN SPORT 03 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S23.png" group-title="beIN SPORT S2",AR: BEIN SPORT 03 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="AR: BEIN SPORT 04 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S24.png" group-title="beIN SPORT S2",AR: BEIN SPORT 04 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30245
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="AR: BEIN SPORT 05 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S25.png" group-title="beIN SPORT S2",AR: BEIN SPORT 05 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30244
-#EXTINF:-1 tvg-id="beINbeIN SPORT S26.qa" tvg-name="AR: BEIN SPORT 06 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S26.png" group-title="beIN SPORT S2",AR: BEIN SPORT 06 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30243
-#EXTINF:-1 tvg-id="beINbeIN SPORT S27.qa" tvg-name="AR: BEIN SPORT 07 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S27.png" group-title="beIN SPORT S2",AR: BEIN SPORT 07 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
-#EXTINF:-1 tvg-id="beINbeIN SPORT S28.qa" tvg-name="AR: BEIN SPORT 08 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S28.png" group-title="beIN SPORT S2",AR: BEIN SPORT 08 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30241
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="AR: BEIN SPORT 09 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S29.png" group-title="beIN SPORT S2",AR: BEIN SPORT 09 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
-#EXTINF:-1 tvg-id="beINbeIN SPORT S210.qa" tvg-name="AR: BEIN SPORT 10 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S210.png" group-title="beIN SPORT S2",AR: BEIN SPORT 10 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239
-#EXTINF:-1 tvg-id="beINbeIN SPORT S211.qa" tvg-name="AR: BEIN SPORT 11 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaz1erTJMJR3PxVHzdXQbTqWRAC7M4okC314B-zDrCORFgs6L" group-title="beIN SPORT S2",AR: BEIN SPORT 11 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30238
-#EXTINF:-1 tvg-id="beINbeIN SPORT S212.qa" tvg-name="AR: BEIN SPORT 12 HD" tvg-logo="http://epg4you.com/logos/beinbeIN SPORT S2.png" group-title="beIN SPORT S2",AR: BEIN SPORT 12 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30237
+
+
+
+
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S2 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN Sports S2",BeIN Sports S2 1 FHD
 http://dx4.gcdn.co/UKS1747/index.m3u8
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports S2 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN Sports S2",BeIN Sports S2 2 FHD
@@ -533,127 +460,6 @@ xmtv://aHR0cDovLzk1LjIxNi4xNzIuMTgvdXBsb2FkL2ltYWdlcy9sb2dvQTA4Lm0zdTh8VXNlci1BZ
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----|قنوات bein Sport📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL SHARQIYA HD
-http://m.edu-blog.work:80/zxc/zxc/84551
-#EXTINF:0 tvg-id="UTV.uk" group-title="IRAQ TV",UTV FHD
-http://m.edu-blog.work:80/zxc/zxc/84713
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",UTV HD - HEVC
-http://m.edu-blog.work:80/zxc/zxc/84714
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",Iraqia Sport  FHD
-http://m.edu-blog.work:80/zxc/zxc/84715
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL TALEAA
-http://m.edu-blog.work:80/zxc/zxc/84548
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",W.TV
-http://m.edu-blog.work:80/zxc/zxc/84549
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",IRAQIA ENTERTAIMMENT
-http://m.edu-blog.work:80/zxc/zxc/84552
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",IRAQIA TV
-http://m.edu-blog.work:80/zxc/zxc/84553
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",Al FALLOJA
-http://m.edu-blog.work:80/zxc/zxc/84554
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",HONA BAGHDAD
-http://m.edu-blog.work:80/zxc/zxc/84556
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",IIraqia Syriac
-http://m.edu-blog.work:80/zxc/zxc/84558
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL WIFAQ
-http://m.edu-blog.work:80/zxc/zxc/84560
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",IRAQ FUTURE
-http://m.edu-blog.work:80/zxc/zxc/84562
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL ANWAR
-http://m.edu-blog.work:80/zxc/zxc/84563
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL ANWAR 2
-http://m.edu-blog.work:80/zxc/zxc/84564
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL RAFIDAIN
-http://m.edu-blog.work:80/zxc/zxc/84566
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL BAGHDADIA NOW
-http://m.edu-blog.work:80/zxc/zxc/84567
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AFAK TV
-http://m.edu-blog.work:80/zxc/zxc/84568
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",BELADI
-http://m.edu-blog.work:80/zxc/zxc/84569
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL FORAT TV
-http://m.edu-blog.work:80/zxc/zxc/84570
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL HURRA TV
-http://m.edu-blog.work:80/zxc/zxc/84571
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL KAWTHAR
-http://m.edu-blog.work:80/zxc/zxc/84572
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL MAAREF TV
-http://m.edu-blog.work:80/zxc/zxc/84573
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",BABYLON TV
-http://m.edu-blog.work:80/zxc/zxc/84575
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL MASSAR AL OULA
-http://m.edu-blog.work:80/zxc/zxc/84576
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL MAWQEF
-http://m.edu-blog.work:80/zxc/zxc/84577
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL MAWSLEYA
-http://m.edu-blog.work:80/zxc/zxc/84578
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL NAEEM TV
-http://m.edu-blog.work:80/zxc/zxc/84579
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",SAMA ALMOUSEL
-http://m.edu-blog.work:80/zxc/zxc/84580
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL AHED
-http://m.edu-blog.work:80/zxc/zxc/84581
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL RASHEED
-http://m.edu-blog.work:80/zxc/zxc/84582
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL SHARQIA
-http://m.edu-blog.work:80/zxc/zxc/84583
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL SHARQIA FROM KALba
-http://m.edu-blog.work:80/zxc/zxc/84584
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL TAGHIER
-http://m.edu-blog.work:80/zxc/zxc/84585
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",MD
-http://m.edu-blog.work:80/zxc/zxc/84586
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",ALANBAR
-http://m.edu-blog.work:80/zxc/zxc/84588
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",IRAQIA TURKUMAN
-http://m.edu-blog.work:80/zxc/zxc/84589
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",ALGHADEER
-http://m.edu-blog.work:80/zxc/zxc/84590
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL TURKMENIA
-http://m.edu-blog.work:80/zxc/zxc/84591
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",ASIA TV
-http://m.edu-blog.work:80/zxc/zxc/84592
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",DEWAN TV
-http://m.edu-blog.work:80/zxc/zxc/84593
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",DIJLA TV
-http://m.edu-blog.work:80/zxc/zxc/84594
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",DUA
-http://m.edu-blog.work:80/zxc/zxc/84595
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",DORAR
-http://m.edu-blog.work:80/zxc/zxc/84596
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",IMAM HUSSEIN 2
-http://m.edu-blog.work:80/zxc/zxc/84600
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",KARBALA TV
-http://m.edu-blog.work:80/zxc/zxc/84602
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",MEDICAL
-http://m.edu-blog.work:80/zxc/zxc/84603
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",NEWS
-http://m.edu-blog.work:80/zxc/zxc/84604
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",ZAGROS TV
-http://m.edu-blog.work:80/zxc/zxc/84605
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",Roqiaty
-http://m.edu-blog.work:80/zxc/zxc/84606
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",SALAHDEN TV
-http://m.edu-blog.work:80/zxc/zxc/84607
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",SAMARRA TV
-http://m.edu-blog.work:80/zxc/zxc/84608
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",SAWT ALITRA
-http://m.edu-blog.work:80/zxc/zxc/84609
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",SUMARIA
-http://m.edu-blog.work:80/zxc/zxc/84610
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",W TV
-http://m.edu-blog.work:80/zxc/zxc/84611
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",Dijlah tarab
-http://m.edu-blog.work:80/zxc/zxc/84612
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",AL SHARQIYA NEWS FHD
-http://m.edu-blog.work:80/zxc/zxc/84834
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",ALHARA IRAQ
-http://m.edu-blog.work:80/zxc/zxc/86043
-#EXTINF:0 tvg-id="ext" group-title="IRAQ TV",ALAQILA TV
-http://m.edu-blog.work:80/zxc/zxc/86807
 
 
 
