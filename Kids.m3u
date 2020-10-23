@@ -9,7 +9,8 @@ http://144.76.102.19:25461/live/hash=kAOOoVvupm.ByRaeed.WdyDUqFPzR/hash=kAOOoVvu
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=kAOOoVvupm.ByRaeed.WdyDUqFPzR/hash=kAOOoVvupm.ByRaeed.WdyDUqFPzR/490.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Smurfs
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , 
+#EXTINF:0 tvg-id="ext" group-title="KIDS", Smurfs
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=kAOOoVvupm.ByRaeed.WdyDUqFPzR/hash=kAOOoVvupm.ByRaeed.WdyDUqFPzR/491.m3u8
 
