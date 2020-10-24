@@ -210,27 +210,26 @@ http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/87738.ts
 #EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Al Yawm UHD.
 http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/8494.ts
 
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 1 4K
-http://arb.ssltv.net:9263/MYHD_MBC1_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2 4K
-http://arb.ssltv.net:9263/MYHD_MBC2_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 3 4K
-http://arb.ssltv.net:9263/MYHD_MBC3_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 4 4K
-http://arb.ssltv.net:9263/MYHD_MBC4_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Max 4K
-http://arb.ssltv.net:9263/MYHD_MBC_MAX_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Action 4K
-http://arb.ssltv.net:9263/MYHD_MBC_ACTION_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Bollywood 4K
-http://arb.ssltv.net:9263/MYHD_MBC_BOLLYWOOD_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Drama 4K
-http://arb.ssltv.net:9263/MYHD_MBC_DRAMA_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Drama+ 4K
-http://arb.ssltv.net:9263/MYHD_MBC_DRAMA+_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Variety 4K
-http://arb.ssltv.net:9263/MYHD_MBC_VARIETY_HD/index.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC
+http://185.232.53.5:2086/live/gennaro/gennaro/99004.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2
+http://185.232.53.5:2086/live/gennaro/gennaro/99005.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 3
+http://185.232.53.5:2086/live/gennaro/gennaro/99006.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 4
+http://185.232.53.5:2086/live/gennaro/gennaro/99007.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 5
+http://185.232.53.5:2086/live/gennaro/gennaro/99008.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC ACTION HD
+http://185.232.53.5:2086/live/gennaro/gennaro/99009.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC BOLLYWOOD
+http://185.232.53.5:2086/live/gennaro/gennaro/99010.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC DRAMA
+http://185.232.53.5:2086/live/gennaro/gennaro/99011.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC DRAMA+
+http://185.232.53.5:2086/live/gennaro/gennaro/99012.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC MAX
+http://185.232.53.5:2086/live/gennaro/gennaro/99013.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC IRAQ 4K
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
