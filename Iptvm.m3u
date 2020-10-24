@@ -219,39 +219,28 @@ http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/8494.ts
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC MAX HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?Live-TV™
 
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC MAX FHD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?Live-TV™
-
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?Live-TV™
 
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2 FHD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?Live-TV™
 
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?Live-TV™
-
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC Action FHD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?Live-TV™
+
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC MAX FHD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?Live-TV™
 
 
 
 
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC
 http://185.232.53.5:2086/live/gennaro/gennaro/99004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2
-http://185.232.53.5:2086/live/gennaro/gennaro/99005.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC 3
 http://185.232.53.5:2086/live/gennaro/gennaro/99006.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC 4
 http://185.232.53.5:2086/live/gennaro/gennaro/99007.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC 5
 http://185.232.53.5:2086/live/gennaro/gennaro/99008.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC",MBC ACTION HD
-http://185.232.53.5:2086/live/gennaro/gennaro/99009.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC BOLLYWOOD
 http://185.232.53.5:2086/live/gennaro/gennaro/99010.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC DRAMA
@@ -266,9 +255,6 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC 3 4K
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
-https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
 
 
