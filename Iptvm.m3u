@@ -219,22 +219,22 @@ http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/8494.ts
 
 
 
-#EXTINF:-1,MBC MAX HD
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?Live-TV™
 
-#EXTINF:-1,MBC MAX FHD
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC MAX FHD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?Live-TV™
 
-#EXTINF:-1,MBC 2 HD
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?Live-TV™
 
-#EXTINF:-1,MBC 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2 FHD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?Live-TV™
 
-#EXTINF:-1,MBC Action HD
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?Live-TV™
 
-#EXTINF:-1,MBC Action FHD
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Action FHD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?Live-TV™
 
 
