@@ -5,6 +5,10 @@ http://live.al-zahratv.com/live/playlist.m3u8
 http://127.0.0.1:11470/1130b2d36434f85d39e7336a8b294ff55abd8e35/0
 
 
+#EXTINF:0 tvg-id="ext" group-title="Shia",m111moo
+http://127.0.0.1:11470/1130b2d36434f85d39e7336a8b294ff55abd8e35/0
+
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",Alshaaer
 https://nl.live21.ir/hls2/alshaaer.m3u8
 
