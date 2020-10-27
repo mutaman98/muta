@@ -26,9 +26,9 @@ http://iptvsng.dyndns.org:8080/live/Alanwartv/LIVEANWAR/3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="Iran",Al Alam
+#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="Shia",Al Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Sirat" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" tvg-country="IR" tvg-url="" group-title="Iran",Al Sirat
+#EXTINF:-1 tvg-id="" tvg-name="Al Sirat" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" tvg-country="IR" tvg-url="" group-title="Shia",Al Sirat
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",Fathima
