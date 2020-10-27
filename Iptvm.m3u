@@ -14,6 +14,12 @@ http://nl.live21.ir:8080/hls2/saoutalaqila_high.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الشعائر
 https://nl.live21.ir/hls2/alshaaer.m3u8
 
+
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="Shia",Ch4Teen
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",قناة الدعاء
 https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m3u8
 
