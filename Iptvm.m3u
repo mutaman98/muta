@@ -9,10 +9,15 @@ https://o7-pn1-s-jkzf.vidstream.kim/watch/70611249f18fb6f5k8yXTKSvStrig-zBy.u-K0
 http://185.246.210.51:2200/TN/alawhad-ar/tracks-v1a1/mono.m3u8?token=RED_DpGXevSZgOJaWZCcXYrR6g%3D%3D%2C1603895621.2194198603
 
 
+#EXTINF:0 tvg-id="ext" group-title="Shia",صوت العقيلة
+http://nl.live21.ir:8080/hls2/saoutalaqila_high.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",Alshaaer
 https://nl.live21.ir/hls2/alshaaer.m3u8
 
+
+#EXTINF:0 tvg-id="ext" group-title="Shia",الولاية
+http://nl.live21.ir:8080/hls2/alwilayah.tv_high.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",Almsar
 http://185.246.210.54:2200/TN/almasaralulatv-ar/tracks-v1a1/mono.m3u8?token=RED_3iWQMm5h-ANw2SB8y4u9Ng%3D%3D%2C1603896024.2194198603
