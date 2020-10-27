@@ -576,6 +576,17 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/ee4c652635.m3u8
 
 
+EXTINF:0 tvg-id="AlJazeera.nws" group-title="NEWS",Aljazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS",Al Jazeera Mubashir
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS",Alarabiyia
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="NEWS",Alhadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="NEWS",RT Arabic
 https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
