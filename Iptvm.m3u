@@ -15,41 +15,47 @@ http://nl.live21.ir:8080/hls2/saoutalaqila_high.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Alshaaer
 https://nl.live21.ir/hls2/alshaaer.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Shia",قناة الدعاء
+
+https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",Almsar
 http://185.246.210.54:2200/TN/almasaralulatv-ar/tracks-v1a1/mono.m3u8?token=RED_3iWQMm5h-ANw2SB8y4u9Ng%3D%3D%2C1603896024.2194198603
 
+#EXTINF:0 tvg-id="ext" group-title="Shia",المهدي
+
+http://173.212.226.44:8080/live.mp4
 
 #EXTINF:0 tvg-id="hd-life" group-title="Shia",kamil
 http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",Anwar1
+#EXTINF:0 tvg-id="ext" group-title="Shia",الانوار
 http://iptvsng.dyndns.org:8080/live/Alanwartv/LIVEANWAR/3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="Shia",Al Alam
+#EXTINF:-1 tvg-id="" tvg-name="العالم" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="Shia",Al Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Sirat" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" tvg-country="IR" tvg-url="" group-title="Shia",Al Sirat
+#EXTINF:-1 tvg-id="" tvg-name="الصراط" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" tvg-country="IR" tvg-url="" group-title="Shia",Al Sirat
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",Fathima
+#EXTINF:0 tvg-id="ext" group-title="Shia",فاطمة
 http://nl2.live21.ir/hls2/fatimatv_src.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",Alkafeel TV
+#EXTINF:0 tvg-id="ext" group-title="Shia",الكفيل
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Beitol Abbas TV
+#EXTINF:0 tvg-id="ext" group-title="Shia",بيت العباس
 http://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Alqmar
+#EXTINF:0 tvg-id="ext" group-title="Shia",القمر
 https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",Almaref
+#EXTINF:0 tvg-id="ext" group-title="Shia",المعارف
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w1683812952_b446000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Almosawy
+#EXTINF:0 tvg-id="ext" group-title="Shia",الموسوي
 https://wowzaprod205-i.akamaihd.net/hls/live/803554/2ee3cf71/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Thaqalayn
+#EXTINF:0 tvg-id="ext" group-title="Shia",الثقلين
 https://live.thaqalayn.tv/hls/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",alwilayah
+#EXTINF:0 tvg-id="ext" group-title="Shia",الولاية
 https://nl.live21.ir/hls2/alwilayah.tv_src.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein
@@ -59,16 +65,16 @@ ttp://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b192000.m3u8
 http://yayin10.canliyayin.org/P981680400/kudustv/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Imad
 http://109.123.126.10:1935/live/livestream1.sdp/chunklist_w542659642.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Qaim
+#EXTINF:0 tvg-id="ext" group-title="Shia",قائم
 http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Almhdi
+#EXTINF:0 tvg-id="ext" group-title="Shia",المهدي
 http://iptv.almahditv.com/almahdi/playlist2/1601473368331.ts
-#EXTINF:0 tvg-id="ext" group-title="Shia",Bet alabas
+#EXTINF:0 tvg-id="ext" group-title="Shia",بيت العباس
 http://live.beitolabbas.tv:1935/live/beitolabbastv/chunklist_w831362392.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@314913/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1602023340~acl=%2fi%2fdclive_1%40314913*~data=hdntl~hmac=68a6fb6a4739345778b4835ed5e9f1a299d399ea90de4d8218c568fc2cd14225
-#EXTINF:0 tvg-id="ext" group-title="Shia",Alkomel
+#EXTINF:0 tvg-id="ext" group-title="Shia",الكميل
 http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Alkafeel
+#EXTINF:0 tvg-id="ext" group-title="Shia",الكفيل
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
 http://198.1.117.5:1935/live/livestream_w1290911642/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein TV 1
