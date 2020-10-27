@@ -26,7 +26,7 @@ https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m
 #EXTINF:0 tvg-id="ext" group-title="Shia",المهدي
 http://173.212.226.44:8080/live.mp4
 
-#EXTINF:0 tvg-id="hd-life" group-title="Shia",kamil
+#EXTINF:0 tvg-id="hd-life" group-title="Shia",الكميل
 http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الانوار
@@ -34,9 +34,9 @@ http://iptvsng.dyndns.org:8080/live/Alanwartv/LIVEANWAR/3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="العالم" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="Shia",Al Alam
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="Shia",العالم
 https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الصراط" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" tvg-country="IR" tvg-url="" group-title="Shia",Al Sirat
+#EXTINF:-1 tvg-id="" tvg-name="ext" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" tvg-country="IR" tvg-url="" group-title="Shia",الصراط
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",فاطمة
