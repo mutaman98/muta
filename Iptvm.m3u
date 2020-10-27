@@ -563,8 +563,7 @@ http://sarhantv.myq-see.com:25461/sarhan/sarhantv/81
 
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ApfiLZ",Al Jazeera Mubashir
@@ -573,20 +572,9 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u",Alhadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u",Alhadath 2
-https://shls-hadath-prod.shahid.net/hadath-prod.m3u8
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/1200px-Al-Alam_logo.svg.png",Al Alam 
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/ee4c652635.m3u8
 
-EXTINF:0 tvg-id="AlJazeera.nws" group-title="NEWS",Aljazeera
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",Al Jazeera Mubashir
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEWS",Alarabiyia
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="NEWS",Alhadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="NEWS",RT Arabic
