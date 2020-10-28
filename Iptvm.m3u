@@ -518,18 +518,6 @@ http://sarhantv.myq-see.com:25461/sarhan/sarhantv/81
 
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ""group-title="NEWS",Aljazeera
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/ApfiLZ" "group-title="NEWS",Al Jazeera Mubashir
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/1qk56w" group-title="NEWS",Alarabiyia
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u""group-title="NEWS",Alhadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/1200px-Al-Alam_logo.svg.png""group-title="NEWS",Al Alam 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/ee4c652635.m3u8
-
-
 
 
 
@@ -593,9 +581,7 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS",alaraby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS",NRT Arabiya
-http://185.105.4.210:1935/nrt/ngrp:livestream_all/playlist.m3u8#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| قنوات mbc📺|-----★●•[/color]
-https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
-
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 
 
