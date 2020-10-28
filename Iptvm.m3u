@@ -115,52 +115,6 @@ https://tv.razavi.ir/hls/rozeh.m3u8?auto
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN YaHala Oula UHD.
-http://arb.ssltv.net:9263/AR_OSN_YAHALA_OULA_HD/index.m3u8
-#EXTINF:0 tvg-id="OSNYahala.net" group-title="OSN Ultra HD",OSN YaHala UHD.
-http://arb.ssltv.net:9263/AR_OSN_YAHALA_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Yahala Cinema HD
-http://arb.ssltv.net:9263/AR_OSN_YAHALA_CINEMA_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Action HD
-http://arb.ssltv.net:9263/AR_OSN_MOVIES_ACTION_HD/index.m3u8
-#EXTINF:0 tvg-id="OSNMovies.net" group-title="OSN Ultra HD",OSN Movies UHD
-http://arb.ssltv.net:9263/AR_OSN_MOVIES_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Star Movies 4K
-http://arb.ssltv.net:9263/MYHD_STAR_MOVIES_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Series First UHD
-http://arb.ssltv.net:9263/AR_OSN_SERIES_FIRST_HD/index.m3u8
-#EXTINF:0 tvg-id="ARTCinema.net" group-title="OSN Ultra HD",ART Cinema
-http://arb.ssltv.net:9263/ART_CINEMA/index.m3u8
-#EXTINF:0 tvg-id="ARTAflam1.net" group-title="OSN Ultra HD",ART Aflam 1
-http://arb.ssltv.net:9263/ART_AFLAM_1/index.m3u8
-#EXTINF:0 tvg-id="ARTAflam2.net" group-title="OSN Ultra HD",ART Aflam 2
-http://arb.ssltv.net:9263/ART_AFLAM_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",ART Hekayat 1
-http://strong-livetv.com:80/live/lam_mar/AojwXghk3/45212.ts
-#EXTINF:0 tvg-id="ARTHekayat2.net" group-title="OSN Ultra HD",ART Hekayat 2
-http://strong-livetv.com:80/live/lam_mar/AojwXghk3/45213.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN History HD
-http://arb.ssltv.net:9263/AR_OSN_HISTORY_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nat Geo People HD
-http://arb.ssltv.net:9263/AR_OSN_NAT_PEOPLe_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nat Geo HD
-http://arb.ssltv.net:9263/AR_OSN_NAT_GEO_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Discovery Channel 4K UHD/HDR
-http://arb.ssltv.net:9263/AR_OSN_DISCOVERY_SC_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Nat Geo Wild 4K
-http://arb.ssltv.net:9263/AR_OSN_NAT_GEO_WILD_HD/index.m3u8
-#EXTINF:0 tvg-id="Fightbox.cz" group-title="OSN Ultra HD",Fight Box FHD
-http://arb.ssltv.net:9263/MYHD_FIGHT_BOX_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nickelodeon UHD
-http://arb.ssltv.net:9263/AR_OSN_NICKELODEON_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Kids UHD
-http://arb.ssltv.net:9263/AR_OSN_KIDS_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Musalsalat UHD
-http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/87751.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Al Safwa UHD.
-http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/87738.ts
-#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Al Yawm UHD.
-http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/8494.ts
 
 
 
@@ -2302,4 +2256,53 @@ http://51.158.73.206/hls/stream.m3u8
 
 
 
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN YaHala Oula UHD.
+http://arb.ssltv.net:9263/AR_OSN_YAHALA_OULA_HD/index.m3u8
+#EXTINF:0 tvg-id="OSNYahala.net" group-title="OSN Ultra HD",OSN YaHala UHD.
+http://arb.ssltv.net:9263/AR_OSN_YAHALA_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Yahala Cinema HD
+http://arb.ssltv.net:9263/AR_OSN_YAHALA_CINEMA_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Action HD
+http://arb.ssltv.net:9263/AR_OSN_MOVIES_ACTION_HD/index.m3u8
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="OSN Ultra HD",OSN Movies UHD
+http://arb.ssltv.net:9263/AR_OSN_MOVIES_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Star Movies 4K
+http://arb.ssltv.net:9263/MYHD_STAR_MOVIES_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Series First UHD
+http://arb.ssltv.net:9263/AR_OSN_SERIES_FIRST_HD/index.m3u8
+#EXTINF:0 tvg-id="ARTCinema.net" group-title="OSN Ultra HD",ART Cinema
+http://arb.ssltv.net:9263/ART_CINEMA/index.m3u8
+#EXTINF:0 tvg-id="ARTAflam1.net" group-title="OSN Ultra HD",ART Aflam 1
+http://arb.ssltv.net:9263/ART_AFLAM_1/index.m3u8
+#EXTINF:0 tvg-id="ARTAflam2.net" group-title="OSN Ultra HD",ART Aflam 2
+http://arb.ssltv.net:9263/ART_AFLAM_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",ART Hekayat 1
+http://strong-livetv.com:80/live/lam_mar/AojwXghk3/45212.ts
+#EXTINF:0 tvg-id="ARTHekayat2.net" group-title="OSN Ultra HD",ART Hekayat 2
+http://strong-livetv.com:80/live/lam_mar/AojwXghk3/45213.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN History HD
+http://arb.ssltv.net:9263/AR_OSN_HISTORY_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nat Geo People HD
+http://arb.ssltv.net:9263/AR_OSN_NAT_PEOPLe_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nat Geo HD
+http://arb.ssltv.net:9263/AR_OSN_NAT_GEO_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Discovery Channel 4K UHD/HDR
+http://arb.ssltv.net:9263/AR_OSN_DISCOVERY_SC_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",Nat Geo Wild 4K
+http://arb.ssltv.net:9263/AR_OSN_NAT_GEO_WILD_HD/index.m3u8
+#EXTINF:0 tvg-id="Fightbox.cz" group-title="OSN Ultra HD",Fight Box FHD
+http://arb.ssltv.net:9263/MYHD_FIGHT_BOX_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Nickelodeon UHD
+http://arb.ssltv.net:9263/AR_OSN_NICKELODEON_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Kids UHD
+http://arb.ssltv.net:9263/AR_OSN_KIDS_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Musalsalat UHD
+http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/87751.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Al Safwa UHD.
+http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/87738.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN Ultra HD",OSN Al Yawm UHD.
+http://uk.redhatiptv.com:25461/live/rockiprv/8W11574o8yRe69Pm2/8494.ts
 
