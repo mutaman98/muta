@@ -67,8 +67,6 @@ http://yayin10.canliyayin.org/P981680400/kudustv/chunklist.m3u8
 http://109.123.126.10:1935/live/livestream1.sdp/chunklist_w542659642.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",قائم
 http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",المهدي
-http://iptv.almahditv.com/almahdi/playlist2/1601473368331.ts
 #EXTINF:0 tvg-id="ext" group-title="Shia",بيت العباس
 http://live.beitolabbas.tv:1935/live/beitolabbastv/chunklist_w831362392.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@314913/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1602023340~acl=%2fi%2fdclive_1%40314913*~data=hdntl~hmac=68a6fb6a4739345778b4835ed5e9f1a299d399ea90de4d8218c568fc2cd14225
@@ -419,7 +417,8 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPuqpego/lv0b94/3259
 #EXTINF:0 tvg-id="ext" group-title="AFLAM BOX OFFICE",MAX CINEMA 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPuqpego/lv0b94/3260
 #EXTINF:0 tvg-id="ext" group-title="AFLAM BOX OFFICE",MAX ACTION
-http://iptv.allkaicerteam.com:8080/kaicer_VIPuqpego/lv0b94/3261#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Ya Hala Cinma HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPuqpego/lv0b94/3261
+EXTINF:0 tvg-id="ext" group-title="NEWS",AR: OSN Ya Hala Cinma HD
 http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
 
 
@@ -504,8 +503,7 @@ http://best-live.xyz:25461/BEST-LIVE/BEST-LIVE1234/51
 
 
 
-
-#:-1 tvg-id="" tvg-name="shoofmax 1 " tvg-logo="" group-title="Shoof Max",shoofmax 1 
+EXTINF:0 tvg-id="ext" group-title="Shoof Max",shoofmax 1 
 http://sarhantv.myq-see.com:25461/sarhan/sarhantv/78
 #EXTINF:-1 tvg-id="" tvg-name="shoofmax 2" tvg-logo="" group-title="Shoof Max",shoofmax 2
 http://sarhantv.myq-see.com:25461/sarhan/sarhantv/79
@@ -523,14 +521,13 @@ http://sarhantv.myq-see.com:25461/sarhan/sarhantv/81
 
 
 
-#EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="NEWS",Sky News Arabia
-
+EXTINF:0 tvg-id="ext" group-title="NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="NEWS",Al Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
 
-tvg-id="ext" group-title="NEWS",Al Hurra Iraq
+EXTINF:0 tvg-id="ext" group-title="NEWS",Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS",Al Iraqiya Al 3ama
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
@@ -550,7 +547,7 @@ https://ghaasiflu.online/Dijlah/index.m3u8
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="NEWS",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-EXTINF:0 tvg-id="AlJazeera.nws" group-title="NEWS",Aljazeera
+EXTINF:0 tvg-id="ext" group-title="NEWS",Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS",Al Jazeera Mubashir
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
