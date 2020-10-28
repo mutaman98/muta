@@ -607,6 +607,31 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPuqpego/lv0b94/3229
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="4K (Only On 4K Devices)",sky Sports premium liga
+http://dx4.gcdn.co/UK1290/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="4K (Only On 4K Devices)",la liga TV
+http://dx4.gcdn.co/UK4563/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="4K (Only On 4K Devices)",sky Sports football
+http://dx4.gcdn.co/UK1293/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="4K (Only On 4K Devices)",bt sport 1
+http://dx4.gcdn.co/UK328/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="4K (Only On 4K Devices)",bt sport 2
+http://dx4.gcdn.co/UK329/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="4K (Only On 4K Devices)",bt sport 3
+http://dx4.gcdn.co/UK330/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="4K (Only On 4K Devices)",bt sport 4
+http://dx4.gcdn.co/UK331/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="ART Channels",•●★★--- ART Channels ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPuqpego/lv0b94/122
 #EXTINF:0 tvg-id="ARTAflam1.net" group-title="ART Channels",AR: ART Aflam 1
