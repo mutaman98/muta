@@ -110,7 +110,20 @@ https://tv.razavi.ir/hls/rozeh.m3u8?auto
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",قناة القرآن الكريم 
+http://m.live.net.sa:1935/live/quran/chunklist_w385140766.m3u8?v=3293249572
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",القناة السادسة
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=2-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",قناة اقرأ 
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8?1716031792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",قناة مكة
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1304330095.m3u8?v=1716031792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",قناة المجد
+http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2433
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",القرآن الكريم راديو١
+http://92.222.103.14:8005/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",القرآن الكريم راديو٢
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8
 
 
 
