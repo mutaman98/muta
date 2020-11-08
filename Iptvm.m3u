@@ -956,28 +956,6 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPuqpego/lv0b94/3218
 
 
 
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S2 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN Sports S2", 1 FHD
-http://148.251.23.179:80/B1FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports S2 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN Sports S2",BeIN Sports S2 2 FHD
-http://148.251.23.179:80/B2FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN Sports S2 3 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD3.png" group-title="BeIN Sports S2",BeIN Sports S2 3 FHD
-http://148.251.23.179:80/B3FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN Sports S2 4 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD4.png" group-title="BeIN Sports S2",BeIN Sports S2 4 FHD
-http://148.251.23.179:80/B4FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN Sports S2 5 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD5.png" group-title="BeIN Sports S2",BeIN Sports S2 5 FHD
-http://148.251.23.179:80/B5FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN Sports S2 6 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD6.png" group-title="BeIN Sports S2",BeIN Sports S2 6 FHD
-http://148.251.23.179:80/B6FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Sports S2 7 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD7.png" group-title="BeIN Sports S2",BeIN Sports S2 7 FHD
-http://148.251.23.179:80/B7FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN Sports S2 8 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD8.png" group-title="BeIN Sports S2",BeIN Sports S2 8 FHD
-http://148.251.23.179:80/B8FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN Sports S2 9 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD9.png" group-title="BeIN Sports S2",BeIN Sports S2 9 FHD
-http://148.251.23.179:80/B9FHD/index.m3u8
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN Sports S2 10 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD10.png" group-title="BeIN Sports S2",BeIN Sports S2 10 FHD
-http://148.251.23.179:80/B10FHD/index.m3u8
-
-
 
 #EXTINF:0 tvg-id="cartoon" group-title="KIDS",Cartoon Network
 http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/5.ts
@@ -2453,14 +2431,7 @@ http://dragoniptv.club:8080/VeYZXrsDxQ/75HqjKNPFT/27972
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="DUBAI",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="DUBAI",Al Aan TV
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
@@ -2468,20 +2439,97 @@ https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="MBC",Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="DUBAI",Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Arabic Sport",Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Arabic Sport",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Arabic Sport",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Arabic Sport",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+
+#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Arabic Sport",Dubai Sports1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+
+#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2  ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Arabic Sport",Dubai Sports2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+
+#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3  ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Arabic Sport",Dubai Sports3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
+
+#EXTINF:-1 tvg-id="Dubai Sports 4 ARB" tvg-name="Dubai Sports 4  ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Arabic Sport",Dubai Sports4
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports4
+
+
+#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Arabic Sport",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
+#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Arabic Sport",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-country="JO" tvg-url="" group-title="Arabic Sport",Jordan Sport TV
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" tvg-country="KW" tvg-url="" group-title="Arabic Sport",KTV Sport
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="Arabic Sport",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",Raya1 TV
+http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",water 1
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",water 2
+http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",Bethlehem 1
+http://live.btv2020.com:1935/live/btv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/TfQvvZh.png" group-title="Arabic Sport",Bethlehem 2
+http://live.btv2020.com:1935/live/btv2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",An-Najah Nbc
+http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",on time Sport 1
+http://channelsstream.xyz:8080/live/streeem/streeem/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",on time Sport 2
+http://channelsstream.xyz:8080/live/streeem/streeem/113.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AR_ON Sport" tvg-logo="" group-title="Arabic Sport",AR_ON Sport
+http://ipdax.top:8080/hatmyx/hjghyut/74
+#EXTINF:-1 tvg-id="" tvg-name="AR_ON Sport 2" tvg-logo="" group-title="Arabic Sport",AR_ON Sport 2
+http://ipdax.top:8080/hatmyx/hjghyut/75
+
+#EXTINF:-1 tvg-id="KSA Sports1" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports1
+http://bit.do/Neds1
+
+#EXTINF:-1 tvg-id="KSA Sports2" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports2 
+http://bit.do/Neds2
+
+#EXTINF:-1 tvg-id="KSA Sports1" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports1 s2
+http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2530
+
+#EXTINF:-1 tvg-id="KSA Sports2" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports2 s2
+http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2531
+
+#EXTINF:-1 tvg-id="Al Kass One" tvg-name="Al Kass One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1?DVR
+#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwiab/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass two ARB" tvg-name="Al Kass two ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyia/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass three ARB" tvg-name="Al Kass three ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3?DVR
+#EXTINF:-1 tvg-id="Al Kass four ARB" tvg-name="Al Kass four ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass five ARB" tvg-name="Al Kass five ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
+
 #EXTINF:-1 tvg-id="Dubai TV ARB" tvg-name="Dubai TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="DUBAI",Dubai TV
 https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="DUBAI",Dubai Zaman
@@ -2528,8 +2576,8 @@ http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hssli
 https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="DUBAI",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Sharjah TV ARB" tvg-name="Sharjah TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="DUBAI",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="DUBAI",Sharqiya from Kalba TV
