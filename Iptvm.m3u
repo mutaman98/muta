@@ -123,7 +123,7 @@ http://92.222.103.14:8005/stream/1/
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8
 1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",Noble 1
-https://5d39f1ab8ba65.streamlock.net:1935/english/english-new/playlist.m3u8
+5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",Noble 2
 https://5d39f1ab8ba65.streamlock.net:1935/english/english-new/chunklist_w1311436156.m3u8
