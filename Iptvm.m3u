@@ -2,7 +2,7 @@
 http://live.al-zahratv.com/live/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",الاوحد
+#EXTINF:0 tvg-id="ext" group-title="Shia",الانوار 2
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@314913/master.m3u8?hdnea=st=1606013638~exp=1606014038~acl=/i/dclive_1@314913*~hmac=f78b94a8cd0f594b15466a258af0cc79e7d01328a13bddfaed64dbc8feaf3ab9
 
 
@@ -14,8 +14,8 @@ http://89.187.169.205:2200/TN/alshaaertv-ar/index.m3u8?token=RED_oe6Bq4J5W3QOMyz
 
 #EXTINF:0 tvg-id="ext" group-title="Shia", imantv
 http://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",  المرجعية
-http://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",  اصيل
+http://212.86.76.85:80/live/asil.m3u8
 
 
 
