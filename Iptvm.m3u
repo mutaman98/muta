@@ -20,6 +20,16 @@ http://212.86.76.85:80/live/asil.m3u8
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 
 
+
+
+#EXTINF:0 tvg-id="ext" group-title="Shia",Ch4Teen quran
+http://stream-05.ix7.dailymotion.com:80/sec(IbeXB-fEZXft8Mu82uFOZR1vm37z4kIOQOkHLwXL-Fg)/dm/3/x7tcf1t/s/live-2.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Shia",Ch4Teen 2
+http://stream-05.ix7.dailymotion.com:80/sec(0HE75RGSqqnhnSdEMl12ZYAC2P1_BratMR4Il3DHFFo)/dm/3/x7v4ezg/d/live-2.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",قناة الدعاء
 https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m3u8
 
