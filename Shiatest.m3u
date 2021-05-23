@@ -2,10 +2,9 @@
 http://live.al-zahratv.com/live/playlist.m3u8
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Shia",Imam Ali
+tvg-logo="http://www12.0zz0.com/2017/11/21/01/798401375.png" group-title="beIN SPORT ARAB",beIN SPORTS NEWS
 https://ir14.livekadeh.com/hls2/imamali.m3u8
-group-title="beIN SPORT ARAB",beIN SPORTS NEWS
+
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",صوت العقيلة
 https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
