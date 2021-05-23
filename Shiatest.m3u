@@ -3,8 +3,12 @@ http://live.al-zahratv.com/live/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="Shia",Imam Ali
+https://ir14.livekadeh.com/hls2/imamali.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",صوت العقيلة
-http://nl.live21.ir:8080/hls2/saoutalaqila_high.m3u8
+https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الشعائر
 https://nl.live21.ir/hls2/alshaaer.m3u8
