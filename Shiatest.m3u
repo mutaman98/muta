@@ -44,8 +44,9 @@ http://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",القمر
 https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",المعارف
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w1683812952_b446000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",صوت العقيلة
+https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",الموسوي
 https://wowzaprod205-i.akamaihd.net/hls/live/803554/2ee3cf71/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الثقلين
