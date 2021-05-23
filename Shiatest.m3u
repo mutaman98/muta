@@ -46,10 +46,7 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",بيت العباس
 http://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",القمر
-https://wowzaprodhd60-lh.akamaihd.net/i/e62a6fb6_1@10718/index_500000_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:0 tvg-id="ext" group-title="Shia",صوت العقيلة
-https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الموسوي
 https://wowzaprod205-i.akamaihd.net/hls/live/803554/2ee3cf71/playlist.m3u8
