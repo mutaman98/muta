@@ -107,6 +107,26 @@ https://tv.razavi.ir/hls/rozeh.m3u8?auto
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC IRAQ 4K
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 3 4K
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC 2 FHD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?Live-TV™
+
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC Action FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?Live-TV™
+
+#EXTINF:0 tvg-id="ext" group-title="MBC",MBC MAX FHD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?Live-TV™
+
+
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="OSN NATIONAL GEOGRAPHIC AD" tvg-logo="http://www.teledunet.com/logo.php?id=10125" group-title="او اس انOSN",OSN NATIONAL GEOGRAPHIC AD
