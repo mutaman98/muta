@@ -2,7 +2,7 @@
 http://live.al-zahratv.com/live/playlist.m3u8
 
 
-tvg-logo="http://www12.0zz0.com/2017/11/21/01/798401375.png" group-title="beIN SPORT ARAB",beIN SPORTS NEWS
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS" tvg-logo="http://www12.0zz0.com/2017/11/21/01/798401375.png" group-title="beIN SPORT ARAB",beIN SPORTS NEWS
 https://ir14.livekadeh.com/hls2/imamali.m3u8
 
 
