@@ -33,8 +33,8 @@ http://173.212.226.44:8080/live.mp4
 #EXTINF:0 tvg-id="hd-life" group-title="Shia",الكميل
 http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",الانوار2
-dcunilive2-lh.akamaihd.net/i/dclive_1@314913/master.m3u8?hdnea=st=1621779899~exp=1621780299~acl=/i/dclive_1@314913*~hmac=7fdb9191fd18f7dd78faf7e57d068dbeb48a2c241bf0d305fbc0fd7300e34bd0
+#EXTINF:0 tvg-id="ext" group-title="Shia", test الانوار2
+http://iframe.dacast.com/b/107085/c/491055
 
 
 
