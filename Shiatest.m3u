@@ -19,6 +19,11 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 
 
+#EXTINF:-1 group-title="Shia",ch4teen quran
+http://stream-08.ix7.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTbH27PN3PeeD8Qx9z9RiMg)/dm/3/x7tcf1t/s/live-2.m3u8
+#EXTINF:-1 group-title="Shia",ch4teen media
+http://stream-01.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbfx7Bi5pIUo-mI54NRSy6M)/dm/3/x7v4ezg/d/live-2.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",قناة الدعاء
 https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m3u8
 
@@ -124,10 +129,8 @@ https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568
 https://5d39f1ab8ba65.streamlock.net:1935/english/english-new/chunklist_w1311436156.m3u8
 
 
-
-
-
-
+#EXTINF:-1 group-title="Shia",Ayat
+https://stream.holol.com/live/ayat/chunklist_w32230248.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC IRAQ 4K
