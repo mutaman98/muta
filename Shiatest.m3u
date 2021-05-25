@@ -114,8 +114,10 @@ http://92.222.103.14:8005/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",القرآن الكريم راديو٢
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",القرآن الكريم عبدالباسط
-
 http://quraan.us:9916/;*.mp3
+
+#EXTINF:-1 group-title="Shia",Nobel TV
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",Noble 2
@@ -423,7 +425,11 @@ http://65.21.32.185:80/airmaxtvproalll/cnd81wdPK1/201
 #EXTINF:-1 tvg-id="" tvg-name="Masha and the Bear" tvg-logo="https://i.pinimg.com/originals/ba/83/03/ba8303a081e280f20310350a7b44f416.jpg" group-title="7قنوات أطفال Children",Masha and the Bear
 http://65.21.32.185:80/airmaxtvproalll/cnd81wdPK1/202
 
+#EXTINF:-1  group-title="7قنوات أطفال Children" tvg-id="(no tvg-id)" tvg-name="Cartoon Network Arabic (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" ,Cartoon Network Arabic (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 
+#EXTINF:-1  group-title="7قنوات أطفال Children" tvg-id="(no tvg-id)" tvg-name="Spacetoon (1080p)" tvg-logo="https://i.imgur.com/RzPOwqI.png" ,Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #EXTM3U size="medium"
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" tvg-shift="0" group-title="Arabic News", Al Jazeera HD 
