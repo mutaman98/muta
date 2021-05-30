@@ -132,6 +132,9 @@ https://5d39f1ab8ba65.streamlock.net:1935/english/english-new/chunklist_w1311436
 #EXTINF:-1 group-title="Shia",Ayat
 https://stream.holol.com/live/ayat/chunklist_w32230248.m3u8
 
+#EXTINF:-1 group-title="Shia",youtube test
+https://www.youtube.com/watch?v=KFhZZVC88lo
+
 
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC IRAQ 4K
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
