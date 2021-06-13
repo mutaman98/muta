@@ -20,9 +20,9 @@ https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 
 
 #EXTINF:-1 group-title="Shia",ch4teen quran
-http://stream-08.ix7.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTbH27PN3PeeD8Qx9z9RiMg)/dm/3/x7tcf1t/s/live-2.m3u8
+http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
 #EXTINF:-1 group-title="Shia",ch4teen media
-http://stream-01.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbfx7Bi5pIUo-mI54NRSy6M)/dm/3/x7v4ezg/d/live-2.m3u8
+http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",قناة الدعاء
 https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m3u8
@@ -33,8 +33,8 @@ http://173.212.226.44:8080/live.mp4
 #EXTINF:0 tvg-id="hd-life" group-title="Shia",الكميل
 http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Shia", test الانوار2
-http://iframe.dacast.com/b/107085/c/491055
+#EXTINF:0 tvg-id="ext" group-title="Shia", الجوادين
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 
 
 
