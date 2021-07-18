@@ -57,6 +57,10 @@ https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 https://wowzaprod205-i.akamaihd.net/hls/live/803554/2ee3cf71/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الثقلين
 https://live.thaqalayn.tv/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",البينات
+https://nl2.livekadeh.com/hls2/Bayyinat_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",النعيم
+https://nl2.livekadeh.com/hls2/alnaeem_high.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الولاية
 https://nl.livekadeh.com/hls2/alwilayah.tv_high.m3u8
 
