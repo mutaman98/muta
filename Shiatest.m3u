@@ -64,6 +64,19 @@ https://nl2.livekadeh.com/hls2/alnaeem_high.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الولاية
 https://nl.livekadeh.com/hls2/alwilayah.tv_high.m3u8
 
+
+
+#EXTINF:-1 group-title="Shia",المعارف
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
+#EXTINF:-1 group-title="Shia",المنار
+http://manar.live/iptv/chunklist_w1919910288_b500000.m3u8
+
+#EXTINF:-1 group-title="Shia",المسار
+http://192.34.153.36:7777/AlMasar_HD/AlMasar_HD.m3u8?user=sgls540839&session=0c6f0a90f9c5e77023edeb28e17d381f04dd21eda6a30279bbe1c21d1f5c5f87140b148cb6ec0d91&hlsid=HTTP_ID_1&starttime=20210624T140630.854787
+#EXTINF:-1 group-title="Shia",almahditv
+http://iptv.almahditv.com/almahdi/playlist2/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein
 http://live.imamhossaintv.com/live/ih301/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Taha
@@ -130,24 +143,6 @@ https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",Noble 2
 https://5d39f1ab8ba65.streamlock.net:1935/english/english-new/chunklist_w1311436156.m3u8
-#EXTINF:-1 group-title="Shia",المعارف
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
-#EXTINF:-1 group-title="Shia",المنار
-http://manar.live/iptv/chunklist_w1919910288_b500000.m3u8
-
-#EXTINF:-1 group-title="Shia",المسار
-http://192.34.153.36:7777/AlMasar_HD/AlMasar_HD.m3u8?user=sgls540839&session=0c6f0a90f9c5e77023edeb28e17d381f04dd21eda6a30279bbe1c21d1f5c5f87140b148cb6ec0d91&hlsid=HTTP_ID_1&starttime=20210624T140630.854787
-#EXTINF:-1 group-title="Shia",almahditv
-http://iptv.almahditv.com/almahdi/playlist2/index.m3u8
-#EXTINF:-1 group-title="Shia",Ayat
-https://stream.holol.com/live/ayat/chunklist_w32230248.m3u8
-
-#EXTINF:-1 group-title="Shia",almajd
-https://se25-ott.iptvcdn.tv/hls/p/10.100.1.141:4041/23200_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=vwgircyavmK6sVSwOXdHTw&e=1626888114&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=16c99a53b9&host=SE25-OTT.iptvcdn.tv%3A443
-#EXTINF:-1 group-title="Shia",almajd_hadeeth
-https://se25-ott.iptvcdn.tv/hls/p/10.100.1.146:4041/23201_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=O1UtMmN1iUTnB7ioRLtnoQ&e=1626887969&ident=55449baaf084e&s=23201&t=0&p=101_eaad7d09e3&strid=8125e5bc85&host=SE25-OTT.iptvcdn.tv%3A443
-#EXTINF:-1 group-title="Shia",قناة نور الشام
-http://192.34.153.36:7777/NourElSham_HD/NourElSham_HD.m3u8?user=sgls540839&session=3836c7d0d8eac0bb1e77bec164cd9b71373e18207721e92b5d066f4d13a63278e9b33b0f3cc0a5b7b34ee7ed63b31e6f&hlsid=HTTP_ID_1&starttime=20210624T140630.859795
 
 
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC IRAQ 4K
