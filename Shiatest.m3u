@@ -70,9 +70,6 @@ https://nl.livekadeh.com/hls2/alwilayah.tv_high.m3u8
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 #EXTINF:-1 group-title="Shia",المنار
 http://manar.live/iptv/chunklist_w1919910288_b500000.m3u8
-
-#EXTINF:-1 group-title="Shia",المسار
-http://192.34.153.36:7777/AlMasar_HD/AlMasar_HD.m3u8?user=sgls540839&session=0c6f0a90f9c5e77023edeb28e17d381f04dd21eda6a30279bbe1c21d1f5c5f87140b148cb6ec0d91&hlsid=HTTP_ID_1&starttime=20210624T140630.854787
 #EXTINF:-1 group-title="Shia",almahditv
 http://iptv.almahditv.com/almahdi/playlist2/index.m3u8
 
