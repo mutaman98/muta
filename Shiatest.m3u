@@ -133,6 +133,9 @@ https://5d39f1ab8ba65.streamlock.net:1935/english/english-new/chunklist_w1311436
 #EXTINF:-1 group-title="Shia",المعارف
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 
+#EXTINF:-1 group-title="Shia",المسار
+http://192.34.153.36:7777/AlMasar_HD/AlMasar_HD.m3u8?user=sgls540839&session=0c6f0a90f9c5e77023edeb28e17d381f04dd21eda6a30279bbe1c21d1f5c5f87140b148cb6ec0d91&hlsid=HTTP_ID_1&starttime=20210624T140630.854787
+
 #EXTINF:-1 group-title="Shia",Ayat
 https://stream.holol.com/live/ayat/chunklist_w32230248.m3u8
 
