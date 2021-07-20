@@ -130,7 +130,8 @@ https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",Noble 2
 https://5d39f1ab8ba65.streamlock.net:1935/english/english-new/chunklist_w1311436156.m3u8
-
+#EXTINF:-1 group-title="Shia",المعارف
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 
 #EXTINF:-1 group-title="Shia",Ayat
 https://stream.holol.com/live/ayat/chunklist_w32230248.m3u8
