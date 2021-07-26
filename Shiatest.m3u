@@ -10,11 +10,6 @@ https://ir14.livekadeh.com/hls2/imamali.m3u8
 https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",الشعائر
-https://nl.livekadeh.com/hls2/alshaaer_high.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",الشعائر2
-http://ir11.livekadeh.com/HDD/playback/alshaaer/alshaaer-1621924665.mp4
-
 EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="Shia",Ch4Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 
@@ -139,8 +134,20 @@ http://quraan.us:9916/;*.mp3
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",Noble 2
-https://5d39f1ab8ba65.streamlock.net:1935/english/english-new/chunklist_w1311436156.m3u8
+#EXTINF:-1 group-title="Shia",الاوحد
+http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/183.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",الشعائر
+http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/185.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",ام البنين
+http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/204.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",الاهواز
+http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia", الفرقدين
+l#http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/217.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia", الانوار
+http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/199.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",المرجعية
+http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/214.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC IRAQ 4K
