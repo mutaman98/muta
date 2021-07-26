@@ -117,7 +117,8 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الامام الرضا
 https://tv.razavi.ir/hls/rozeh.m3u8?auto
-
+#EXTINF:0 tvg-id="ext" group-title="Shia",al iman
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 
 
 
