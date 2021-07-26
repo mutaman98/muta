@@ -143,7 +143,7 @@ http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/204.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الاهواز
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia", الفرقدين
-l#http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/217.m3u8
+#http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/217.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia", الانوار
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/199.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",المرجعية
