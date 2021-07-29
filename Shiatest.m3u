@@ -156,6 +156,8 @@ http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/188.m3u8
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/205.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",imamali
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/195.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",العقيلة
+http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/193.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="MBC",MBC IRAQ 4K
