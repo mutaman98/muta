@@ -164,6 +164,19 @@ http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/195.m3u8
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/193.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الأنيس
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/186.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",Ahmad AL Ajami
+http://tv.besttvps.com:8080/live/33041634733689/33041634733689/3090.ts
+#EXTINF:0 tvg-id="ext" group-title="Shia",Saad Al Ghamidi
+http://tv.besttvps.com:8080/live/33041634733689/33041634733689/3089.ts
+#EXTINF:0 tvg-id="ext" group-title="Shia",Maher Al Muaiqly
+http://tv.besttvps.com:8080/live/33041634733689/33041634733689/3091.ts
+#EXTINF:0 tvg-id="ext" group-title="Shia",AlErth AINabawi
+http://tv.besttvps.com:8080/live/33041634733689/33041634733689/1031.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Shia",Yasser Al Dossari
+http://tv.besttvps.com:8080/live/33041634733689/33041634733689/3092.ts
+
+
 
 
 
