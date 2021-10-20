@@ -100,6 +100,7 @@ http://ur.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الضريح الشريف
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
 
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",مدخل الحرم الشريف
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
 
@@ -138,6 +139,9 @@ https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/183.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الشعائر
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/185.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Shia",husaineiah
+https://master.starmena-cloud.com/hls/husaineiah.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",ام البنين
 http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/204.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الاهواز
