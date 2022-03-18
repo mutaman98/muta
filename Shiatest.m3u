@@ -354,7 +354,10 @@ http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5DysyI9-Gf-r-uRa58ByUjw
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",دجلة
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",السومرية
+http://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=sumari&v=1551952122
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",هنا بغداد
+http://192.34.153.36:7777/HonaBagdad_HD/HonaBagdad_HD.m3u8?user=sgls540839&session=8fb0e10f7090dd491d878d3d096cac1ce0a37bfe65aaf2e6a6d0a6e055cbda97017f8605433123adb34ee7ed63b31e6f&hlsid=HTTP_ID_325&starttime=20220312T083411.127251
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الرافدين 
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
 
