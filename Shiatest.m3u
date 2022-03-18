@@ -327,9 +327,12 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الفرات
+http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية الاخبارية
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",افاق
+http://95.216.180.111:1935/live/1/playlist.m3u8?v=1440932235
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",السومرية
 http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys7Uq64n09HblAHf86M1QXAtmABQLn1iJd4sI8QCG8vy9/ts
