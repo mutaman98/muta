@@ -318,6 +318,54 @@ https://manar.live/iptv/chunklist_w1778468299_b500000.m3u8
 
 
 
+   
+#EXTINF:-1,*** قنوات عراقية ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",MBC العراق
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية الاخبارية
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",السومرية
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys7Uq64n09HblAHf86M1QXAtmABQLn1iJd4sI8QCG8vy9/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الرشيد
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",هنا بغداد
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys7hjKx8H1_dVgWElktzG_JjbIiAYOopVmLqpqBXg0u0e/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",ANB
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys3lQ5hxwCpiAdVnk3lxbiSY6FamB4qx_t5PUqpeyyc8g/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",أسيا
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys-ox-a_BKJLKSjXkkiB4MuP81wyOZY8NnLVVW5to8jmV/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العراقية
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العراقية الاخبارية
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5DysyI9-Gf-r-uRa58ByUjwzl6Gpb9AE-qLECvSoFaCzOyh/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",دجلة
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الرافدين 
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الحرة عراق الاخبارية
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الموصلية
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys-n3MjANpjJmSPocZRuLWJ4plHdhdAnzIPBOGZFFy4Ut/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الفرات
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5DyszvXXOuBYGWC3KtIKqirHMGYheUTtKqTbjoAbw1uhIqv/ts
 
 
 
