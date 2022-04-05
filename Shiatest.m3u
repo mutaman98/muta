@@ -333,7 +333,8 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",افاق
 http://95.216.180.111:1935/live/1/playlist.m3u8?v=1440932235
-
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العهد
+http://148.66.130.171:1935/Alahadlive/AlahadTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",السومرية
 http://www.elahmad.com/tv/m3u8/online_live_10_tv.m3u8?id=sumari&v=2019169774
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الرشيد
