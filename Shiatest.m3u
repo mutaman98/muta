@@ -332,7 +332,10 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية الاخبارية
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",افاق
-http://95.216.180.111:1935/live/1/playlist.m3u8?v=1440932235
+http://95.216.180.111:1935/live/1/playlist.m3u8?v=144093223
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الغدير
+https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العهد
 http://148.66.130.171:1935/Alahadlive/AlahadTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",السومرية
@@ -359,7 +362,6 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",zagrostv
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-
 
 
 
