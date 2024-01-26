@@ -93,63 +93,12 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",قناة القرآن الكريم 
-http://m.live.net.sa:1935/live/quran/chunklist_w385140766.m3u8?v=3293249572
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",قناة اقرأ 
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8?1716031792
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",قناة مكة
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1304330095.m3u8?v=1716031792
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",القرآن الكريم راديو١
-http://92.222.103.14:8005/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",القرآن الكريم راديو٢
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="Shia",القرآن الكريم عبدالباسط
-http://quraan.us:9916/;*.mp3
-
-#EXTINF:-1 group-title="Shia",Nobel TV
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
 
 
-#EXTINF:-1 group-title="Shia",الاوحد
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/183.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",الشعائر
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/185.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",husaineiah
-https://master.starmena-cloud.com/hls/husaineiah.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Shia",ام البنين
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/204.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",الاهواز
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/200.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia", الفرقدين
-#http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/217.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia", الانوار
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/199.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",المرجعية
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/214.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",كربلاء
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/197.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",الصادق
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/188.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",الفرات
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/205.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",imamali
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/195.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",العقيلة
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/193.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",الأنيس
-http://sngtv.canal-hd.com:25461/live/Shiaatv/Shiaalive/186.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Ahmad AL Ajami
-http://tv.besttvps.com:8080/live/33041634733689/33041634733689/3090.ts
-#EXTINF:0 tvg-id="ext" group-title="Shia",Saad Al Ghamidi
-http://tv.besttvps.com:8080/live/33041634733689/33041634733689/3089.ts
-#EXTINF:0 tvg-id="ext" group-title="Shia",Maher Al Muaiqly
-http://tv.besttvps.com:8080/live/33041634733689/33041634733689/3091.ts
-#EXTINF:0 tvg-id="ext" group-title="Shia",AlErth AINabawi
-http://tv.besttvps.com:8080/live/33041634733689/33041634733689/1031.ts
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7f3fd725a2684c459974d80790b97ec7/chunklist_b2592000.m3u8?p=79&s=1706293190&e=1706293310&h=8c1a9f79bceecb8486e59b11267e2ad0
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",Yasser Al Dossari
-http://tv.besttvps.com:8080/live/33041634733689/33041634733689/3092.ts
+
 
 
 
