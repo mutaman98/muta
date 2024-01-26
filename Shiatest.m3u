@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-id="ext" group-title="Shia",الزهراء
-http://live.al-zahratv.com/live/playlist.m3u8
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",Imam Ali
@@ -59,13 +59,11 @@ https://ir14.livekadeh.com/hls2/alwilayah_tv_src.m3u8
 #EXTINF:-1 group-title="Shia",المعارف
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 #EXTINF:-1 group-title="Shia",المنار
-http://manar.live/iptv/chunklist_w1919910288_b500000.m3u8
+https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Shia",almahditv
 http://iptv.almahditv.com/almahdi/playlist2/index.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein
-http://live.imamhossaintv.com/live/ih301/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",Taha
 Http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b192000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",قدس
@@ -76,40 +74,24 @@ http://109.123.126.10:1935/live/livestream1.sdp/chunklist_w542659642.m3u8
 http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",المهدي
 http://iptv.almahditv.com/almahdi/playlist2/1601473368331.ts
-#EXTINF:0 tvg-id="ext" group-title="Shia",بيت العباس
-http://live.beitolabbas.tv:1935/live/beitolabbastv/chunklist_w831362392.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",الكميل
-http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",الكفيل
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein TV 1
-http://fa.imamhossaintv.com/live/ih1.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein TV 2
-http://ar.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein TV 3
-http://en.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein TV 4
-http://ur.imamhossaintv.com/live/ih4.m3u8
+https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الضريح الشريف
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+https://4776568a3577bbbe.servers.dvcloud.tv/hls/new_channel/48jdunu63nj6e82mrerhl27gc9ef26en.m3u8
 
-
-#EXTINF:0 tvg-id="ext" group-title="Shia",مدخل الحرم الشريف
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Shia",ما بين الحرمين الشريفين
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Shia",داخل الصحن الشريف
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الامام الرضا
-https://tv.razavi.ir/hls/rozeh.m3u8?auto
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",al iman
-https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 
 
 
