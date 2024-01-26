@@ -20,13 +20,11 @@ http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
 http://ch14.tv:80/live/ch4teenclip/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",قناة الدعاء
-https://live.ishiacloud.com/W67H7ddMzVHyXPrG_720p/index.m3u8
+https://live.ishiacloud.com/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_720p.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",المهدي
-http://173.212.226.44:8080/live.mp4
+#EXTINF:0 tvg-id="ext" group-title="Shia",فدك
+https://1232202189.rsc.cdn77.org/ls-48767-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="hd-life" group-title="Shia",الكميل
-http://nl2.live21.ir/hls2/alkomeltv_src.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia", الجوادين
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
@@ -34,24 +32,21 @@ https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ext" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="Shia",العالم
-https://live2.alalamtv.net/live/Alalam/index.m3u8
+https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ext" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nFz5rhQ.jpg" tvg-country="IR" tvg-url="" group-title="Shia",الصراط
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Shia",فاطمة
-http://nl2.live21.ir/hls2/fatimatv_src.m3u8
+https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الكفيل
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
+https://4776568a3577bbbe.servers.dvcloud.tv/hls/new_channel/48jdunu63nj6e82mrerhl27gc9ef26en.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",بيت العباس
-http://live.beitolabbas.tv/live/beitolabbastv.m3u8
+https://live.asset.aparat.com/278ca10e34107a65b24d0f701ebeb699/livehls/beitolabbastv_G9QEX_720p/index.m3u8?s=GGdd3V4i9GBp1nSMkUjCSw&e=1706312207&ip=213.113.210.42
 #EXTINF:0 tvg-id="ext" group-title="Shia",القمر
-https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الموسوي
-https://wowzaprod205-i.akamaihd.net/hls/live/803554/2ee3cf71/playlist.m3u8
+https://cdn3.wowza.com/5/aEtqbDdJeWFiL1lG/live2/myStream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",الثقلين
-https://live.thaqalayn.tv/hls/live.m3u8
+http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",البينات
 https://nl2.livekadeh.com/hls2/Bayyinat_high.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",النعيم
