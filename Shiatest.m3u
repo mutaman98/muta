@@ -263,56 +263,34 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Rotana H+" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rotana-plus-sa.png" group-title=" ☆ ROTANA☆ ",Rotana H+
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana H+SD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title=" ☆ ROTANA☆ ",Rotana H+SD
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title=" ☆ ROTANA☆ ",Rotana Cinema HD
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema SD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title=" ☆ ROTANA☆ ",Rotana Cinema sd
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title=" ☆ ROTANA☆ ",Rotana Classic HD
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic sd" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title=" ☆ ROTANA☆ ",Rotana Classic sd
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title=" ☆ ROTANA☆ ",Rotana Comedy HD
-http://blacktvone.net:80/6xB2HAWN2K/K6gRmtJ7uJ/395
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title=" ☆ ROTANA☆ ",Rotana Drama HD
-https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama SD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title=" ☆ ROTANA☆ ",Rotana Drama SD
-https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Khalijia HD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title=" ☆ ROTANA☆ ",Rotana Khalijia HD
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Khalijia SD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title=" ☆ ROTANA☆ ",Rotana Khalijia SD
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title=" ☆ ROTANA☆ ",Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids SD" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title=" ☆ ROTANA☆ ",Rotana Kids SD
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana  Music" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title=" ☆ ROTANA☆ ",Rotana  Music
-https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana  Music SD" tvg-logo="https://i.pinimg.com/originals/25/67/fd/2567fdc1f623835a79b3323777785a5b.png" group-title=" ☆ ROTANA☆ ",Rotana  Music SD
-https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title=" ☆ ROTANA☆ ",ROTANA TARAB HD
-http://188.247.86.67:8008/3
- #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title=" ☆ ROTANA☆ ",Rotana Lbchd PLUS
-https://hiplayer.hibridcdn.net/p/rotana-lbc
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title=" ☆ ROTANA☆ ",Al Resalah PLUS
-https://hiplayer.hibridcdn.net/p/rotana-risala
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title=" ☆ ROTANA☆ ",Rotana Comedy PLUS
-https://hiplayer.hibridcdn.net/p/rotana-comedy
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title=" ☆ ROTANA☆ ",Rotana Kids PLUS
-https://hiplayer.hibridcdn.net/p/rotana-kids
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title=" ☆ ROTANA☆ ",Rotana Cinema PLUS
-https://hiplayer.hibridcdn.net/p/rotana-cinema
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title=" ☆ ROTANA☆ ",Rotana Classic PLUS
-https://hiplayer.hibridcdn.net/p/rotana-classical
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title=" ☆ ROTANA☆ ",Rotana Drama PLUS
-https://hiplayer.hibridcdn.net/p/rotana-drama
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title=" ☆ ROTANA☆ ",Rotana Khaleejiya PLUS
-https://hiplayer.hibridcdn.net/p/rotana-khaleejiya
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title=" ☆ ROTANA☆ ",Rotana Music PLUS
-https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema Egypt (1080p) group-title="Rotana"
+https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema Egypt (1080p) [Geo-blocked] group-title="Rotana"
+https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema KSA (1080p) group-title="Rotana"
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa",Rotana Cinema KSA (1080p)
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa",Rotana Cinema KSA (1080p) [Geo-blocked] group-title="Rotana"
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa",Rotana Classic (1080p) group-title="Rotana"
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa",Rotana Classic (1080p) [Geo-blocked] group-title="Rotana
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa",Rotana Comedy (1080p) [Geo-blocked] group-title="Rotana
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa",Rotana Drama (1080p) [Geo-blocked] group-title="Rotana
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa",Rotana Khalijia (1080p) group-title="Rotana
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa",Rotana Khalijia (1080p) [Geo-blocked] group-title="Rotana
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+#EXTINF:-1 tvg-id="RotanaKids.sa",Rotana Kids (1080p) group-title="Rotana
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa",Rotana Music (1080p) [Geo-blocked] group-title="Rotana
+https://daiconnect.com/live/hls/rotana/music/.m3u8
+#EXTINF:-1 tvg-id="RotanaPlusHD.sa",Rotana+ (1080p) group-title="Rotana
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
  
  
 
