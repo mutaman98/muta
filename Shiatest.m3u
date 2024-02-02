@@ -205,45 +205,43 @@ https://manar.live/iptv/chunklist_w1778468299_b500000.m3u8
 #EXTINF:-1,*** قنوات عراقية ***
 https://shls-iraq
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",MBC العراق
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",MBC العراق
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الشرقية
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الفرات
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الفرات
 http://95.216.180.111:1935/live/10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية الاخبارية
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الشرقية الاخبارية
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",افاق
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",افاق
 http://95.216.180.111:1935/live/1/playlist.m3u8?v=144093223
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الغدير
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الغدير
 https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العهد
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",العهد
 http://148.66.130.171:1935/Alahadlive/AlahadTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",السومرية
-http://www.elahmad.com/tv/m3u8/online_live_10_tv.m3u8?id=sumari&v=2019169774
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الرشيد
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",هنا بغداد
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",هنا بغداد
 http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys7hjKx8H1_dVgWElktzG_JjbIiAYOopVmLqpqBXg0u0e/ts
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",ANB
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",ANB
 http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys3lQ5hxwCpiAdVnk3lxbiSY6FamB4qx_t5PUqpeyyc8g/ts
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",أسيا
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",أسيا
 http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys-ox-a_BKJLKSjXkkiB4MuP81wyOZY8NnLVVW5to8jmV/ts
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العراقية
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",العراقية
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العراقية الاخبارية
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",العراقية الاخبارية
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",دجلة
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",دجلة
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",zagrostv
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",zagrostv
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 
