@@ -59,8 +59,6 @@ https://ir14.livekadeh.com/hls2/alwilayah_tv.m3u8
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b446000.m3u8
 #EXTINF:-1 group-title="Shia",المنار
 https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Shia",almahditv
-http://iptv.almahditv.com/almahdi/playlist2/index.m3u8
 
 
 #EXTINF:-1 group-title="Shia",Taha
