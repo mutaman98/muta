@@ -39,8 +39,7 @@ https://svs.itworkscdn.net/assiratvlive/assirat/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الكفيل
 https://4776568a3577bbbe.servers.dvcloud.tv/hls/new_channel/48jdunu63nj6e82mrerhl27gc9ef26en.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",بيت العباس
-https://live.asset.aparat.com/278ca10e34107a65b24d0f701ebeb699/livehls/beitolabbastv_G9QEX_720p/index.m3u8?s=GGdd3V4i9GBp1nSMkUjCSw&e=1706312207&ip=213.113.210.42
+
 #EXTINF:0 tvg-id="ext" group-title="Shia",القمر
 https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
 
