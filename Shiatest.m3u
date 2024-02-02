@@ -12,6 +12,9 @@ https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
 https://ch14.tv/live/ch4teen1/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Shia",karbala
+http://95.216.180.111:1935/live/45/index.m3u8
+
 #EXTINF:-1 group-title="Shia",ch4teen quran
 http://ch14.tv:80/live/ch4teenquran/playlist.m3u8
 #EXTINF:-1 group-title="Shia",ch4teen media
