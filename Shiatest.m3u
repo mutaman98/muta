@@ -11,7 +11,7 @@ https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
 https://ch14.tv/live/ch4teen1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Shia",karbala
+#EXTINF:-1 group-title="Shia",Karbala
 http://95.216.180.111:1935/live/45/index.m3u8
 
 #EXTINF:-1 group-title="Shia",ch4teen quran
@@ -65,27 +65,16 @@ https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 http://iptv.almahditv.com/almahdi/playlist2/index.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",Taha
+#EXTINF:-1 group-title="Shia",Taha
 Http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b192000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",قدس
-http://yayin10.canliyayin.org/P981680400/kudustv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",اهل البيت
-http://109.123.126.10:1935/live/livestream1.sdp/chunklist_w542659642.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",قائم
-http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",المهدي
-http://iptv.almahditv.com/almahdi/playlist2/1601473368331.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Shia",الكفيل
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8
+#EXTINF:-1 group-title="Shia",قائم
+http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",Imam Hussein TV 2
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Shia",الضريح الشريف
-https://4776568a3577bbbe.servers.dvcloud.tv/hls/new_channel/48jdunu63nj6e82mrerhl27gc9ef26en.m3u8
 
 
 
