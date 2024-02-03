@@ -213,22 +213,14 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",افاق
 http://95.216.180.111:1935/live/1/playlist.m3u8?v=144093223
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الغدير
-https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",العهد
-http://148.66.130.171:1935/Alahadlive/AlahadTV/playlist.m3u8
+http://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",هنا بغداد
-http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys7hjKx8H1_dVgWElktzG_JjbIiAYOopVmLqpqBXg0u0e/ts
-
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",ANB
 http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys3lQ5hxwCpiAdVnk3lxbiSY6FamB4qx_t5PUqpeyyc8g/ts
-
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",أسيا
-http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys-ox-a_BKJLKSjXkkiB4MuP81wyOZY8NnLVVW5to8jmV/ts
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",العراقية
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
