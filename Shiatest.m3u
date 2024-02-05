@@ -6,6 +6,14 @@ https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="Shia",الطليعة
+http://95.216.180.111:1935/live/36/index.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Shia", الأيام
+http://95.216.180.111:1935/live/6/index.m3u8
+
 #EXTINF:-1 group-title="Shia",ch4teen
 https://ch14.tv/live/ch4teen1/playlist.m3u8
 
@@ -24,6 +32,9 @@ https://live.ishiacloud.com/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Shia",فدك
 https://1232202189.rsc.cdn77.org/ls-48767-1/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:0 tvg-id="ext" group-title="Shia",الغدير
+http://95.216.180.111:1935/live/2/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia", الجوادين
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
@@ -215,7 +226,7 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 http://95.216.180.111:1935/live/1/playlist.m3u8?v=144093223
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",العهد
-http://148.66.130.171:1935/AlahadLiveStream/AlahadLiveStream_360p/playlist.m3u8
+http://95.216.180.111:1935/live/7/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 
