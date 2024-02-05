@@ -72,9 +72,6 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist_w748681898_b4460
 https://e2.manar.live:9000/live/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Shia",Taha
-Http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b192000.m3u8
-
 #EXTINF:-1 group-title="Shia",قائم
 http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
 
@@ -87,8 +84,7 @@ https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Shia",الامام الرضا
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Shia",al iman
-https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
+
 
 
 
@@ -230,8 +226,6 @@ http://95.216.180.111:1935/live/7/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",ANB
-http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys3lQ5hxwCpiAdVnk3lxbiSY6FamB4qx_t5PUqpeyyc8g/ts
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",العراقية
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
