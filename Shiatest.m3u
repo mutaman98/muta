@@ -275,7 +275,7 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="Shia",MBC Masr
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="",MBC Masr 2
+#EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="Shia",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="Shia",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
