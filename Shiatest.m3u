@@ -238,14 +238,19 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",zagrostv
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",UTV
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الرافدين
+https://arrafidain.tvplayer.online/arrafidaintv/source2/chunks.m3u8?
 
 #EXTM3U
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Shia",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="Shia",الرابعة
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MBC ACTION.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png" group-title="Shia",MBC ACTION
 http://154.58.202.18:8080/mbc2/index.m3u8
