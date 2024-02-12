@@ -295,13 +295,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
-#EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="IRAQ",Rotana Cinema Egypt
-https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="IRAQ",Rotana Cinema KSA
-https://daiconnect.com/live/hls/rotana/cinema-ksa/.m
 
 #EXTM3U
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="IRAQ",Rotana Cinema Egypt
@@ -322,13 +316,4 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://daiconnect.com/live/hls/rotana/music/.m3u8
 #EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="IRAQ",Rotana+ HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="RotanaRadioJordanCityView.jo" tvg-logo="https://i.imgur.com/Tdq4LJk.png" group-title="IRAQ",Rotana Radio Jordan City View
-http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaRadioJordanControlStudio.jo" tvg-logo="https://i.imgur.com/uBXq5QD.png" group-title="IRAQ",Rotana Radio Jordan Control Studio
-http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo" tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="IRAQ",Rotana Radio Jordan Studio
-http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo" tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="IRAQ",Rotana Tarab Jordan City View
-http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaTarabJordanControlStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="IRAQ",Rotana Tarab Jordan Control Studio
-http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
+
