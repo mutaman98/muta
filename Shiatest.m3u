@@ -131,8 +131,7 @@ https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/AlMamlka.png" group-title="Arabic News", Al Mamlka HD
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alhiwar.png" group-title="Arabic News", Al Hiwar
+
 
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Arabic News",Al Manar (576p) [Not 24/7]
 https://manar.live/iptv/playlist.m3u8
@@ -214,7 +213,7 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%D9%82%D9%86%D8%A7%D8%A9_%D8%A3%D9%81%D8%A7%D9%82.png/280px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A3%D9%81%D8%A7%D9%82.png" group-title="IRAQ",افاق
 http://95.216.180.111:1935/live/1/playlist.m3u8?v=144093223
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العهد
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/bd/ACmnVC0y.jpg" group-title="IRAQ",العهد
 http://95.216.180.111:1935/live/7/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/taFJBrEXgVEJ9NNCLNFwTBLuKX64MVXekXl74X2eVPWxKPKfnWBzCJkgoN9j3r7RXns" group-title="IRAQ",الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
