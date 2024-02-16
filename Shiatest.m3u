@@ -2,11 +2,11 @@
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="IRAQ",صوت العقيلة
+#EXTINF:0 tvg-id="ext"  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/afSRkT2ah-ToSgJa6ygt719EjSqvY4l-DBB4Zan-IQNOyl887RCiFQjM5oxTenAdkxBR6Th6dg=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url=""group-title="IRAQ",صوت العقيلة
 https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="IRAQ",الطليعة
+#EXTINF:0 tvg-id="ext" tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/K9tr4a4dQb-yMy6grUlPORiNd7xz4BmaAFluQn3hlhss-A8NVr7jgn01TZ7KIXJ3cKzsUqCsQw=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",الطليعة
 http://95.216.180.111:1935/live/36/index.m3u8
 
 
