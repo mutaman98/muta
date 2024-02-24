@@ -13,7 +13,7 @@ http://95.216.180.111:1935/live/6/index.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",ch4teen
 https://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86.png" tvg-country="IR" tvg-url="" group-title="IRAQ",test
-https://mcdn.mrgamingstreams.com/mrgamingwwe.m3u8
+https://player.livepush.io/emvgKeY2qPi1l
 
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="IRAQ",Karbala
 http://95.216.180.111:1935/live/45/index.m3u8
