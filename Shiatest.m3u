@@ -216,7 +216,8 @@ http://95.216.180.111:1935/live/1/playlist.m3u8?v=144093223
 http://95.216.180.111:1935/live/7/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/taFJBrEXgVEJ9NNCLNFwTBLuKX64MVXekXl74X2eVPWxKPKfnWBzCJkgoN9j3r7RXns" group-title="IRAQ",الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.ina.iq/uploads/posts/2021-03/upload_1614643126_204470460.jpg" group-title="IRAQ",عشتار
+https://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ina.iq/uploads/posts/2021-03/upload_1614643126_204470460.jpg" group-title="IRAQ",العراقية
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
