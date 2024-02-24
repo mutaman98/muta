@@ -77,6 +77,8 @@ https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.alkawthartv.ir/img/logo.png" group-title="IRAQ",الكوثر
+http://95.216.180.111:1935/live/118/index.m3u8
 
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://imamhussein2.tv/wp-content/uploads/2019/08/logowhite-1.png" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ",Imam Hussein TV 2
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
@@ -216,8 +218,8 @@ http://95.216.180.111:1935/live/1/playlist.m3u8?v=144093223
 http://95.216.180.111:1935/live/7/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/taFJBrEXgVEJ9NNCLNFwTBLuKX64MVXekXl74X2eVPWxKPKfnWBzCJkgoN9j3r7RXns" group-title="IRAQ",الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ina.iq/uploads/posts/2021-03/upload_1614643126_204470460.jpg" group-title="IRAQ",عشتار
-https://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/IshtarTVlogo.png" group-title="IRAQ",عشتار
+http://ishtar.cdncast.xyz:1935/live/iShtarHD/media_w358271178_7576.ts
 
 #EXTINF:-1 tvg-logo="https://www.ina.iq/uploads/posts/2021-03/upload_1614643126_204470460.jpg" group-title="IRAQ",العراقية
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
@@ -234,9 +236,6 @@ http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
 https://63b03f7689049.streamlock.net/live/_definst_/1tv/chunklist_w1594571531.m3u8
 #EXTINF:-1  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ZMKMi4ex_T-mneCsMO4vAnfXN2UcUSD1SNjmTPeVe-QO2NbGZP8CiYpWrzipbRZzklXhLSoopZ8=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",عراق المستقبل
 https://webstreaming-3.viewmedia.tv/web_040/Stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.alkawthartv.ir/img/logo.png" group-title="IRAQ",UTV
-http://95.216.180.111:1935/live/118/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",zagrostv
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
