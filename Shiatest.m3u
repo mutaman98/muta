@@ -5,7 +5,6 @@ https://nl.saoutalaqila.tv/hls2/saoutalaqila_high.m3u8
 #EXTINF:0 tvg-id="ext" tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/K9tr4a4dQb-yMy6grUlPORiNd7xz4BmaAFluQn3hlhss-A8NVr7jgn01TZ7KIXJ3cKzsUqCsQw=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ",الطليعة
 http://95.216.180.111:1935/live/36/index.m3u8
 
-
 #EXTINF:0 tvg-id="ext" tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQkphS_25VuyWloCkCrbguJ2-qUVrjA0IEp-UFl=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" group-title="IRAQ", الأيام
 http://95.216.180.111:1935/live/6/index.m3u8
 
