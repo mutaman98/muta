@@ -104,101 +104,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="IRAQ",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/7.m3u8
 
-#EXTM3U 
-#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" tvg-shift="0" group-title="Arabic News", Al Jazeera HD 
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Arabic News", Al Jazeera English HD 
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Arabic News", Al Jazeera Mobashir HD
-https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/skynews.png" tvg-country="KW" tvg-url="News" group-title="Arabic News", Sky News
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/AL-ARABIYA.png" group-title="Arabic News",Alarabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alarabiyahada.jpg" group-title="Arabic News",Alarabiya Al Hadath HD
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/dwar.png" group-title="Arabic News", DW Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/trtarab.png" group-title="Arabic News", TRT Arabic HD
-https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/france24ar.png" group-title="Arabic News", France 24
-https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/AlMamlka.png" group-title="Arabic News", Al Mamlka HD
-https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Arabic News",Al Manar (576p) [Not 24/7]
-https://manar.live/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="Arabic News",Al Masar TV (576p)
-https://master.starmena-cloud.com/hls/almasar.m3u8
-#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="Arabic News",Al Masirah (720p) [Not 24/7]
-https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMasirahMubacher.ye" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="Arabic News",Al Masirah Mubacher (642p) [Not 24/7]
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="Arabic News",Al Mayadeen (576p)
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="Arabic News",Al Qahera News (1080p) [Not 24/7]
-https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="Arabic News",Al Sharqiya News (1080p)
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="Arabic News",Alaraby 2 TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlArabyTV.uk" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="Arabic News",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="Arabic News",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="Arabic News",Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-
-
-#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb TV (1080p)
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
-https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabia (1080p)
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-
-
-#EXTINF:-1  group-title="Kids" tvg-id="(no tvg-id)" tvg-name="Spacetoon (1080p)" tvg-logo="https://i.imgur.com/RzPOwqI.png" ,Spacetoon (1080p)
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-
-
-#EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://i.imgur.com/34Vcc7u.png" group-title="Kids",Gulli Bil Arabi (1080p)
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-
-
-#EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="Kids",Hala London TV Cartoon (720p)
-https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title="Kids",Koogi TV (1080p)
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-
-
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 EUR (1080p)
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-
-#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="Kids",Rotana Kids (1080p)
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-
-#EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="Kids",Sat 7 Kids (1080p)
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-
-
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon (1080p)
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-
-#EXTINF:-1 tvg-id="TahaTV.lb" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV (360p) [Not 24/7]
-https://media2.livaat.com/TAHA-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",MBC العراق
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
@@ -298,6 +205,32 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 
+#EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="Kids",Hala London TV Cartoon (720p)
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title="Kids",Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="Kids",Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="Kids",Sat 7 Kids (1080p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 tvg-id="TahaTV.lb" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV (360p) [Not 24/7]
+https://media2.livaat.com/TAHA-TV/index.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="IRAQ",Rotana Cinema Egypt
@@ -318,6 +251,75 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://daiconnect.com/live/hls/rotana/music/.m3u8
 #EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="IRAQ",Rotana+ HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" tvg-shift="0" group-title="Arabic News", Al Jazeera HD 
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Arabic News", Al Jazeera English HD 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Arabic News", Al Jazeera Mobashir HD
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/skynews.png" tvg-country="KW" tvg-url="News" group-title="Arabic News", Sky News
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/AL-ARABIYA.png" group-title="Arabic News",Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alarabiyahada.jpg" group-title="Arabic News",Alarabiya Al Hadath HD
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/dwar.png" group-title="Arabic News", DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/trtarab.png" group-title="Arabic News", TRT Arabic HD
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/france24ar.png" group-title="Arabic News", France 24
+https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/AlMamlka.png" group-title="Arabic News", Al Mamlka HD
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Arabic News",Al Manar (576p) [Not 24/7]
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="Arabic News",Al Masar TV (576p)
+https://master.starmena-cloud.com/hls/almasar.m3u8
+#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="Arabic News",Al Masirah (720p) [Not 24/7]
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasirahMubacher.ye" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="Arabic News",Al Masirah Mubacher (642p) [Not 24/7]
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="Arabic News",Al Mayadeen (576p)
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQaheraNews.eg" tvg-logo="https://i.imgur.com/37t7yfO.png" group-title="Arabic News",Al Qahera News (1080p) [Not 24/7]
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="Arabic News",Al Sharqiya News (1080p)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="Arabic News",Alaraby 2 TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV.uk" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="Arabic News",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="Arabic News",Alhurra (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="Arabic News",Alhurra Iraq (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+
+
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabia (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
+
+#EXTINF:-1  group-title="Kids" tvg-id="(no tvg-id)" tvg-name="Spacetoon (1080p)" tvg-logo="https://i.imgur.com/RzPOwqI.png" ,Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+
+#EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://i.imgur.com/34Vcc7u.png" group-title="Kids",Gulli Bil Arabi (1080p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 
 
 ﻿#EXTM3U
