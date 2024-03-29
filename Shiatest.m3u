@@ -32,6 +32,9 @@ http://95.216.180.111:1935/live/2/index.m3u8
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" tvg-country="IR" tvg-url=""group-title="IRAQ", الجوادين
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 
+#EXTINF:0  tvg-language="Arabic" tvg-logo="https://www.aljawadain.org/assets/images/channel/aljawdain-channel-logo.png" tvg-country="IR" tvg-url=""group-title="IRAQ",2 الجوادين 
+https://live.aljawadain.org/live/broadcast/playlist.m3u8
+
 #EXTINF:0  tvg-language="Arabic" tvg-logo="https://yt3.googleusercontent.com/yzjcPAuIt8H_wEeaQLjefga_xhSzU5yXgBdj-hBktQeNmK8M5iWT69V29rTrc5S_aJ6r9rifag=s900-c-k-c0x00ffffff-no-rj" tvg-country="IR" tvg-url="" tvg-id="ext" group-title="IRAQ", الجنوب
 http://95.216.180.111:1935/live/18/chunklist.m3u8?t=4LyXruIb9tB03gK75lbwyg&e=1706295711
 
